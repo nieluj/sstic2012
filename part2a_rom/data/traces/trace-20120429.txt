@@ -1,0 +1,1187 @@
+--> SSTICRYPT <--
+Warning: MD5 mismatch for container
+Using keys fd4185ff66a94afd / 0964c3e3a5a6a7a8 ...
+usb_init() called
+usb_find_busses() called
+usb_find_devices() called
+usb_get_busses() called
+usb_open() called
+usb_control_msg(0x1, 40, ff, 0, 0, 0x4575b4, 44, 3e8): unhandled request: 0xff
+usb_close() called
+usb_init() called
+usb_find_busses() called
+usb_find_devices() called
+usb_get_busses() called
+usb_open() called
+usb_control_msg(0x1, 40, ff, 0, 0, 0x45772c, a76, 3e8): unhandled request: 0xff
+usb_close() called
+usb_init() called
+usb_find_busses() called
+usb_find_devices() called
+usb_get_busses() called
+usb_open() called
+usb_control_msg(0x1, 40, 51, 0, 1, 0x46a418, 10, 3e8): 7f 44 cc d0 00 3d 62 1e 68 00 9e b1 02 63 e5 a1 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f3 ff 00 a0 
+usb_control_msg(0x1, 40, 51, a000, 1, 0x46a418, 10, 3e8): 64 09 e3 c3 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f5 ff 10 00 
+usb_control_msg(0x1, 40, 51, 10, 1, 0x46a418, 10, 3e8): 10 1f 51 36 03 d8 26 cc 7e 46 78 ed 20 3c 0b 3c 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f4 ff b4 e3 
+usb_control_msg(0x1, 40, 51, e3b0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): e0 07 00 40 e0 07 00 00 e0 07 00 00 97 cf 00 00 f2 ff 20 00 
+usb_control_msg(0x1, 40, 51, 20, 1, 0x46a418, 10, 3e8): 76 93 1e 09 9e 3b 47 b9 4d cf 1d a3 e5 26 bf 22 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 64 09 e3 c3 00 00 00 00 00 00 00 00 00 00 00 00 00 a0 30 00 
+usb_control_msg(0x1, 40, 51, 30, 1, 0x46a418, 10, 3e8): 34 d7 84 45 8c fb 8c e3 f9 59 57 77 f2 67 1f c9 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7f 44 cc d0 00 3d 62 1e 68 00 9e b1 02 63 e5 a1 00 00 f2 c7 
+usb_control_msg(0x1, 40, 51, c7f0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 88 6a 00 00 00 00 00 00 00 00 00 00 00 00 f1 c7 40 00 
+usb_control_msg(0x1, 40, 51, 40, 1, 0x46a418, 10, 3e8): ec 51 73 8f e4 fb 48 af e8 ce 44 14 67 cc 67 d0 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 92 f6 00 00 00 00 00 00 00 00 00 00 b1 e3 f2 c7 
+usb_control_msg(0x1, 40, 51, c7f0, 1, 0x46a418, 10, 3e8): 00 00 88 6a 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 10 1f 51 36 03 d8 26 cc 7e 46 78 ed 20 3c 0b 3c 10 00 82 c8 
+usb_control_msg(0x1, 40, 51, c880, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 76 93 1e 09 9e 3b 47 b9 4d cf 1d a3 e5 26 bf 22 20 00 50 00 
+usb_control_msg(0x1, 40, 51, 50, 1, 0x46a418, 10, 3e8): 02 ca bb bd d3 3e 80 0f 70 ce 44 16 7d 00 1f 85 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 34 d7 84 45 8c fb 8c e3 f9 59 57 77 f2 67 1f c9 30 00 00 f4 
+usb_control_msg(0x1, 40, 51, f400, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): ec 51 73 8f e4 fb 48 af e8 ce 44 14 67 cc 67 d0 40 00 60 00 
+usb_control_msg(0x1, 40, 51, 60, 1, 0x46a418, 10, 3e8): 17 39 10 4f 18 8d 15 ed 10 61 bc 9a 11 05 f9 19 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 88 6a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 f4 70 00 
+usb_control_msg(0x1, 40, 51, 70, 1, 0x46a418, 10, 3e8): f3 1c 82 f9 8c f4 ce 43 7b 26 7a 67 1e 81 9f 31 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 88 6a 00 00 00 00 00 00 00 00 00 00 00 00 f0 c7 1c f3 
+usb_control_msg(0x1, 40, 51, f310, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 02 ca bb bd d3 3e 80 0f 70 ce 44 16 7d 00 1f 85 50 00 9c e9 
+usb_control_msg(0x1, 40, 51, e990, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 17 39 10 4f 18 8d 15 ed 10 61 bc 9a 11 05 f9 19 60 00 80 00 
+usb_control_msg(0x1, 40, 51, 80, 1, 0x46a418, 10, 3e8): cc f4 ce 3e e2 2c 17 a4 67 f1 c2 1b d1 33 f8 e0 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 1c 3c 00 00 91 e9 70 fc 
+usb_control_msg(0x1, 40, 51, fc70, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1c 3c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 71 fc 90 00 
+usb_control_msg(0x1, 40, 51, 90, 1, 0x46a418, 10, 3e8): f3 28 b9 fc 70 7e c6 7f 1c 22 bf 13 3f 8e 0f a2 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): f3 1c 82 f9 8c f4 ce 43 7b 26 7a 67 1e 81 9f 31 70 00 70 fc 
+usb_control_msg(0x1, 40, 51, fc70, 1, 0x46a418, 10, 3e8): 1c 3c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): cc f4 ce 3e e2 2c 17 a4 67 f1 c2 1b d1 33 f8 e0 80 00 a0 00 
+usb_control_msg(0x1, 40, 51, a0, 1, 0x46a418, 10, 3e8): cf 98 e6 7f 1c 1e d1 23 3e 63 8f d8 ce 56 34 c7 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): f3 28 b9 fc 70 7e c6 7f 1c 22 bf 13 3f 8e 0f a2 90 00 c6 ca 
+usb_control_msg(0x1, 40, 51, cac0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 64 09 00 00 00 00 00 00 00 00 c1 ca b0 00 
+usb_control_msg(0x1, 40, 51, b0, 1, 0x46a418, 10, 3e8): e0 67 2b 1a 80 7f bc 62 0e 72 b1 9f 91 9f e0 c9 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 20 c3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 71 fc c6 ca 
+usb_control_msg(0x1, 40, 51, cac0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 64 09 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): cf 98 e6 7f 1c 1e d1 23 3e 63 8f d8 ce 56 34 c7 a0 00 0c fe 
+usb_control_msg(0x1, 40, 51, fe00, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 64 00 00 00 00 00 00 00 00 00 c1 ca c0 00 
+usb_control_msg(0x1, 40, 51, c0, 1, 0x46a418, 10, 3e8): 0f 30 cf f0 64 17 84 45 90 fb 28 b0 5e 49 15 e2 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 01 fe d0 00 
+usb_control_msg(0x1, 40, 51, d0, 1, 0x46a418, 10, 3e8): 59 fe 0c 8a f7 4c ff 06 3d 22 46 7f 83 1f 31 9e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 20 c3 00 00 11 f3 0c fe 
+usb_control_msg(0x1, 40, 51, fe00, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 20 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): e0 67 2b 1a 80 7f bc 62 0e 72 b1 9f 91 9f e0 c9 b0 00 e0 00 
+usb_control_msg(0x1, 40, 51, e0, 1, 0x46a418, 10, 3e8): 2c a8 2f e6 04 67 8b 29 f1 10 73 c5 94 f8 8c eb 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 0f 30 cf f0 64 17 84 45 90 fb 28 b0 5e 49 15 e2 c0 00 ca e2 
+usb_control_msg(0x1, 40, 51, e2c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 59 fe 0c 8a f7 4c ff 06 3d 22 46 7f 83 1f 31 9e d0 00 f0 00 
+usb_control_msg(0x1, 40, 51, f0, 1, 0x46a418, 10, 3e8): 47 48 7b 26 75 a3 9e 85 9d 68 e8 2f c4 ce b4 73 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 64 00 00 00 00 c1 e2 8e d6 
+usb_control_msg(0x1, 40, 51, d680, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 2c a8 2f e6 04 67 8b 29 f1 10 73 c5 94 f8 8c eb e0 00 00 01 
+usb_control_msg(0x1, 40, 51, 100, 1, 0x46a418, 10, 3e8): d6 33 ae c1 21 ea 99 d7 60 78 06 75 d8 20 bc 8b 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 44 83 81 d6 60 d7 
+usb_control_msg(0x1, 40, 51, d760, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 47 48 7b 26 75 a3 9e 85 9d 68 e8 2f c4 ce b4 73 f0 00 10 01 
+usb_control_msg(0x1, 40, 51, 110, 1, 0x46a418, 10, 3e8): 3a d1 d9 d7 60 7b 44 8c eb 47 3c 23 38 36 90 1e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 61 d7 8e d6 
+usb_control_msg(0x1, 40, 51, d680, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 44 83 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 44 c3 00 00 01 fe 60 d7 
+usb_control_msg(0x1, 40, 51, d760, 1, 0x46a418, 10, 3e8): 00 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): d6 33 ae c1 21 ea 99 d7 60 78 06 75 d8 20 bc 8b 00 01 b4 c1 
+usb_control_msg(0x1, 40, 51, c1b0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 09 00 00 00 00 00 00 00 00 00 00 00 b1 c1 20 01 
+usb_control_msg(0x1, 40, 51, 120, 1, 0x46a418, 10, 3e8): 0c 08 ce 0d a3 e2 20 e7 06 d1 e5 19 da 1e 90 f0 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 44 a7 81 d6 b4 c1 
+usb_control_msg(0x1, 40, 51, c1b0, 1, 0x46a418, 10, 3e8): 00 00 00 00 09 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 3a d1 d9 d7 60 7b 44 8c eb 47 3c 23 38 36 90 1e 10 01 1e da 
+usb_control_msg(0x1, 40, 51, da10, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 44 a7 11 da 30 01 
+usb_control_msg(0x1, 40, 51, 130, 1, 0x46a418, 10, 3e8): 2c ed 0f 41 7f 26 76 87 9e d1 9f 26 c9 0f 40 cf 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 09 00 00 00 00 00 00 00 00 00 00 b1 c1 1e da 
+usb_control_msg(0x1, 40, 51, da10, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 44 a7 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 0c 08 ce 0d a3 e2 20 e7 06 d1 e5 19 da 1e 90 f0 20 01 6c f2 
+usb_control_msg(0x1, 40, 51, f260, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 44 a7 00 00 61 f2 40 01 
+usb_control_msg(0x1, 40, 51, 140, 1, 0x46a418, 10, 3e8): 93 64 17 e1 67 68 7b 3e 4d 8f 14 ce d0 f3 e2 24 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 bb 50 11 da 6c f2 
+usb_control_msg(0x1, 40, 51, f260, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 44 a7 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 2c ed 0f 41 7f 26 76 87 9e d1 9f 26 c9 0f 40 cf 30 01 1e da 
+usb_control_msg(0x1, 40, 51, da10, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 bb 50 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 44 ae 11 da 50 01 
+usb_control_msg(0x1, 40, 51, 150, 1, 0x46a418, 10, 3e8): 67 68 79 fd 11 64 3d 42 2c 07 d2 45 7b c6 77 46 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 61 f2 1e da 
+usb_control_msg(0x1, 40, 51, da10, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 44 ae 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 08 08 00 00 00 00 00 00 00 00 00 00 00 00 81 c8 60 01 
+usb_control_msg(0x1, 40, 51, 160, 1, 0x46a418, 10, 3e8): 24 3d 4b 3b a3 10 1e 41 17 3b a3 0f 68 91 15 f5 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 60 d7 18 dd 
+usb_control_msg(0x1, 40, 51, dd10, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 93 64 17 e1 67 68 7b 3e 4d 8f 14 ce d0 f3 e2 24 40 01 70 01 
+usb_control_msg(0x1, 40, 51, 170, 1, 0x46a418, 10, 3e8): 19 f9 f8 90 f2 8c ff 6e 5a e4 d7 92 67 fb 71 f1 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 44 ae 10 da f8 f9 
+usb_control_msg(0x1, 40, 51, f9f0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 67 68 79 fd 11 64 3d 42 2c 07 d2 45 7b c6 77 46 50 01 dc fe 
+usb_control_msg(0x1, 40, 51, fed0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 b2 51 00 00 d1 fe 80 01 
+usb_control_msg(0x1, 40, 51, 180, 1, 0x46a418, 10, 3e8): 13 68 8b ab f2 33 8e bd 40 00 5f d1 9d 89 ec ff 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 4d ae 00 00 00 00 00 00 f1 f9 5e c7 
+usb_control_msg(0x1, 40, 51, c750, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 19 f9 f8 90 f2 8c ff 6e 5a e4 d7 92 67 fb 71 f1 70 01 9e d8 
+usb_control_msg(0x1, 40, 51, d890, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 51 c7 90 01 
+usb_control_msg(0x1, 40, 51, 190, 1, 0x46a418, 10, 3e8): 6e 3f 22 2e 71 d7 9e 29 15 e8 51 73 b1 3c fd 8c 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 4d ae 00 00 00 00 00 00 11 dd dc fe 
+usb_control_msg(0x1, 40, 51, fed0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 b2 51 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 13 68 8b ab f2 33 8e bd 40 00 5f d1 9d 89 ec ff 80 01 5e c7 
+usb_control_msg(0x1, 40, 51, c750, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 50 c7 a0 01 
+usb_control_msg(0x1, 40, 51, 1a0, 1, 0x46a418, 10, 3e8): e8 92 67 1d 79 eb 19 cf 9a ce c4 f3 e5 33 9f 34 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 b2 51 91 d8 24 d1 
+usb_control_msg(0x1, 40, 51, d120, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 24 3d 4b 3b a3 10 1e 41 17 3b a3 0f 68 91 15 f5 60 01 5e c7 
+usb_control_msg(0x1, 40, 51, c750, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 21 d1 9a cf 
+usb_control_msg(0x1, 40, 51, cf90, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 b2 51 00 00 d0 fe 9e d8 
+usb_control_msg(0x1, 40, 51, d890, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 b2 51 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 4d ae 00 00 00 00 91 cf b0 01 
+usb_control_msg(0x1, 40, 51, 1b0, 1, 0x46a418, 10, 3e8): f1 2c e8 92 67 3e 69 ee 11 73 a2 48 f6 48 af d8 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 6e 3f 22 2e 71 d7 9e 29 15 e8 51 73 b1 3c fd 8c 90 01 24 d1 
+usb_control_msg(0x1, 40, 51, d120, 1, 0x46a418, 10, 3e8): 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 50 c7 9a cf 
+usb_control_msg(0x1, 40, 51, cf90, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 4d ae 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): e8 92 67 1d 79 eb 19 cf 9a ce c4 f3 e5 33 9f 34 a0 01 c0 01 
+usb_control_msg(0x1, 40, 51, 1c0, 1, 0x46a418, 10, 3e8): cf 2f 14 57 d0 67 1d 7b 3b 13 cf 78 ce c4 f6 71 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 4d ae 00 00 00 00 00 00 00 00 00 00 21 d1 e2 e5 
+usb_control_msg(0x1, 40, 51, e5e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): f1 2c e8 92 67 3e 69 ee 11 73 a2 48 f6 48 af d8 b0 01 5e c7 
+usb_control_msg(0x1, 40, 51, c750, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 51 c7 d0 01 
+usb_control_msg(0x1, 40, 51, 1d0, 1, 0x46a418, 10, 3e8): d7 9f d1 9c 75 ec f2 f1 7b dc 03 9d 89 ed 91 4d 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 b3 51 00 00 00 00 00 00 00 00 00 00 00 00 e1 e5 5e c7 
+usb_control_msg(0x1, 40, 51, c750, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): cf 2f 14 57 d0 67 1d 7b 3b 13 cf 78 ce c4 f6 71 c0 01 e2 e5 
+usb_control_msg(0x1, 40, 51, e5e0, 1, 0x46a418, 10, 3e8): 00 00 b3 51 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 b3 51 00 00 00 00 00 00 00 00 00 00 00 00 e0 e5 e0 01 
+usb_control_msg(0x1, 40, 51, 1e0, 1, 0x46a418, 10, 3e8): b0 34 9e f1 ce c4 f6 76 27 ac 3c 01 a0 32 2f a4 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 b3 51 51 c7 f0 01 
+usb_control_msg(0x1, 40, 51, 1f0, 1, 0x46a418, 10, 3e8): 9b 8f 70 0c d7 e4 67 fb 73 38 eb cf 48 8b 45 ae 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): d7 9f d1 9c 75 ec f2 f1 7b dc 03 9d 89 ed 91 4d d0 01 dc fe 
+usb_control_msg(0x1, 40, 51, fed0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 b2 51 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 91 d8 5e c7 
+usb_control_msg(0x1, 40, 51, c750, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 b3 51 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): b0 34 9e f1 ce c4 f6 76 27 ac 3c 01 a0 32 2f a4 e0 01 00 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 b3 51 00 00 d1 fe ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 4d ae 00 00 00 00 90 cf f8 f9 
+usb_control_msg(0x1, 40, 51, f9f0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 4d ae 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 4d ae 00 00 a1 d4 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 b3 51 50 c7 dc fe 
+usb_control_msg(0x1, 40, 51, fed0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 b3 51 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 b3 51 00 00 00 00 00 00 00 00 21 cb 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 9b 8f 70 0c d7 e4 67 fb 73 38 eb cf 48 8b 45 ae f0 01 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 4d ae 00 00 00 00 00 00 f0 f9 ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 4d ae 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 b2 51 00 00 00 00 00 00 00 00 00 00 b1 de 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 b3 51 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 b3 51 00 00 d0 fe b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 b2 51 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 b2 51 00 00 00 00 00 00 00 00 00 00 e1 f9 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 b3 51 00 00 00 00 00 00 00 00 20 cb e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 b2 51 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 4c ae 00 00 00 00 00 00 00 00 00 00 b1 de 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 b3 51 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 4c ae 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 fe ff 00 00 00 00 00 00 00 00 00 00 b1 de 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 b2 51 00 00 00 00 00 00 00 00 00 00 e1 f9 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 fe ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 fe ff 00 00 00 00 00 00 00 00 00 00 b0 de 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 0e 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 21 cb b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 fe ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 b2 51 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 20 cb 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 e1 f9 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 fc ff 00 00 00 00 00 00 00 00 00 00 b1 de e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 fc ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 20 cb 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 fc ff 00 00 00 00 00 00 00 00 00 00 b1 de 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 00 21 cb 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 f9 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 0e 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 00 21 cb b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 fc ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 00 20 cb 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 e1 f9 2f 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 f8 ff 00 00 00 00 00 00 00 00 00 00 b1 de e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 f8 ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 00 20 cb 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 f8 ff 00 00 00 00 00 00 00 00 00 00 b1 de 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 00 21 cb 0e 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 f9 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 f8 ff 00 00 a1 d4 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 f8 ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 f8 ff 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 f8 ff 00 00 a0 d4 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 f8 ff 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 00 20 cb 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 e1 f9 2f 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 f0 ff 00 00 00 00 00 00 00 00 00 00 b1 de e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 f8 ff 00 00 a0 d4 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 f0 ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 00 20 cb ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 f8 ff 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 08 00 00 00 a1 d4 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 f0 ff 00 00 00 00 00 00 00 00 00 00 b1 de ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 08 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 21 cb 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 0e 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 21 cb 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 f0 ff 00 00 a1 d4 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 f0 ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 f9 ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 f0 ff 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 20 cb 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 0f 00 00 00 00 00 00 00 00 00 00 00 e1 f9 2f 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 e0 ff 00 00 00 00 00 00 00 00 00 00 b1 de e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 0f 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 e0 ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 20 cb 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 e0 ff 00 00 00 00 00 00 00 00 00 00 b1 de 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 00 21 cb 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 f9 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 0e 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 00 21 cb b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 e0 ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 00 20 cb 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 1f 00 00 00 00 00 00 00 00 00 00 00 e1 f9 2f 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 c0 ff 00 00 00 00 00 00 00 00 00 00 b1 de e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 1f 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 c0 ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 00 20 cb 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 c0 ff 00 00 00 00 00 00 00 00 00 00 b1 de 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 21 cb 0e 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 f9 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 c0 ff 00 00 a1 d4 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 c0 ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 c0 ff 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 c0 ff 00 00 a0 d4 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 c0 ff 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 20 cb 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 3f 00 00 00 00 00 00 00 00 00 00 00 e1 f9 2f 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 80 ff 00 00 00 00 00 00 00 00 00 00 b1 de e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 3f 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 c0 ff 00 00 a0 d4 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 80 ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 20 cb ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 c0 ff 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 a1 d4 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 80 ff 00 00 00 00 00 00 00 00 00 00 b1 de ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 21 cb 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 0e 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 21 cb 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 80 ff 00 00 a1 d4 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 80 ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 f9 ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 80 ff 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 20 cb 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 7f 00 00 00 00 00 00 00 00 00 00 00 e1 f9 2f 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 ff 00 00 00 00 00 00 00 00 00 00 b1 de e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 7f 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 20 cb 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 ff 00 00 00 00 00 00 00 00 00 00 b1 de 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 21 cb 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 f9 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 0e 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 21 cb b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 ff 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 20 cb 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 ff 00 00 00 00 00 00 00 00 00 00 00 e1 f9 2f 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 fe 00 00 00 00 00 00 00 00 00 00 b1 de e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 ff 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 fe 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 20 cb 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 fe 00 00 00 00 00 00 00 00 00 00 b1 de 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 21 cb 0e 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 f9 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 fe 00 00 a1 d4 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 fe 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 fe 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 fe 00 00 a0 d4 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 fe 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 20 cb 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 ff 01 00 00 00 00 00 00 00 00 00 00 e1 f9 2f 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 fc 00 00 00 00 00 00 00 00 00 00 b1 de e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 ff 01 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 fe 00 00 a0 d4 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 fc 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 20 cb ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 fe 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 a1 d4 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 fc 00 00 00 00 00 00 00 00 00 00 b1 de ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 21 cb 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 0e 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 21 cb 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 fc 00 00 a1 d4 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 fc 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 f9 ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 fc 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 20 cb 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 ff 03 00 00 00 00 00 00 00 00 00 00 e1 f9 2f 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 f8 00 00 00 00 00 00 00 00 00 00 b1 de e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 ff 03 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 f8 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 20 cb 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 f8 00 00 00 00 00 00 00 00 00 00 b1 de 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 21 cb 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 f9 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 0e 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 21 cb b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 f8 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 20 cb 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 ff 07 00 00 00 00 00 00 00 00 00 00 e1 f9 2f 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 f0 00 00 00 00 00 00 00 00 00 00 b1 de e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 ff 07 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 f0 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 20 cb 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 08 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 f0 00 00 00 00 00 00 00 00 00 00 b1 de 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 21 cb 0e 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 f9 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 f0 00 00 a1 d4 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 f0 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 f0 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 f0 00 00 a0 d4 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 f0 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 20 cb 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 ff 0f 00 00 00 00 00 00 00 00 00 00 e1 f9 2f 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 e0 00 00 00 00 00 00 00 00 00 00 b1 de e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 ff 0f 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 f0 00 00 a0 d4 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 e0 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 20 cb ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 f0 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 a1 d4 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 e0 00 00 00 00 00 00 00 00 00 00 b1 de ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 21 cb 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 0e 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 21 cb 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 e0 00 00 a1 d4 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 e0 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 f9 ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 e0 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 20 cb 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 ff 1f 00 00 00 00 00 00 00 00 00 00 e1 f9 2f 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 c0 00 00 00 00 00 00 00 00 00 00 b1 de e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 ff 1f 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 c0 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 20 cb 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 c0 00 00 00 00 00 00 00 00 00 00 b1 de 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 21 cb 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 f9 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 0e 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 21 cb b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 c0 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 20 cb 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 ff 3f 00 00 00 00 00 00 00 00 00 00 e1 f9 2f 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 b1 de e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 ff 3f 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 20 cb 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 b1 de 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 21 cb 0e 02 
+usb_control_msg(0x1, 40, 51, 200, 1, 0x46a418, 10, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 f9 10 02 
+usb_control_msg(0x1, 40, 51, 210, 1, 0x46a418, 10, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 a1 d4 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 80 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 20 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1e 31 9d 4a cc fc fc 3e 23 39 64 d9 fe dc 7e c6 00 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 a0 d4 e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 33 a9 58 f4 4c ef 5a 3e 8b 3b d6 99 cb 26 10 02 ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 20 cb 30 02 
+usb_control_msg(0x1, 40, 51, 230, 1, 0x46a418, 10, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 ff 7f 00 00 00 00 00 00 00 00 00 00 e1 f9 2f 02 
+usb_control_msg(0x1, 40, 51, 220, 1, 0x46a418, 10, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 b1 de e4 f9 
+usb_control_msg(0x1, 40, 51, f9e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 ff 7f 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 a0 d4 b4 de 
+usb_control_msg(0x1, 40, 51, deb0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7d 26 77 ad 1e 51 9f 9e 4c ea 56 3d 13 3f 3c 8f 20 02 40 02 
+usb_control_msg(0x1, 40, 51, 240, 1, 0x46a418, 10, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 20 cb ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 cf cf 26 72 c9 9f 65 9d eb 4c fc f2 3f a2 6e 30 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 a1 d4 50 02 
+usb_control_msg(0x1, 40, 51, 250, 1, 0x46a418, 10, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 b1 de ac d4 
+usb_control_msg(0x1, 40, 51, d4a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 80 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 21 cb 60 02 
+usb_control_msg(0x1, 40, 51, 260, 1, 0x46a418, 10, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 77 ad 1f 81 9d 4a cc e5 93 3c a3 39 64 d9 d4 ac 40 02 26 cb 
+usb_control_msg(0x1, 40, 51, cb20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7c 46 75 2b 26 be 5c 03 9c b2 61 69 45 bb 17 ef 50 02 70 02 
+usb_control_msg(0x1, 40, 51, 270, 1, 0x46a418, 10, 3e8): 0c 57 9c 67 e7 e3 3a 95 8f 41 cf cf c6 7e 7e 03 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 21 cb f8 f9 
+usb_control_msg(0x1, 40, 51, f9f0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 4d ae 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 21 ce 59 36 72 c9 83 5c 00 a0 41 cf e4 8a f7 70 60 02 80 02 
+usb_control_msg(0x1, 40, 51, 280, 1, 0x46a418, 10, 3e8): 5c 00 a0 ac 0f 68 cf d3 d5 05 39 79 26 7e 9e 9f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f1 f9 7a fa 
+usb_control_msg(0x1, 40, 51, fa70, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 0c 57 9c 67 e7 e3 3a 95 8f 41 cf cf c6 7e 7e 03 70 02 90 02 
+usb_control_msg(0x1, 40, 51, 290, 1, 0x46a418, 10, 3e8): 91 9d d8 ca 19 36 f3 8c e5 ea 50 00 17 c4 67 d2 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 c6 fa 00 00 00 00 71 fa 8c dd 
+usb_control_msg(0x1, 40, 51, dd80, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 5c 00 a0 ac 0f 68 cf d3 d5 05 39 79 26 7e 9e 9f 80 02 d4 cb 
+usb_control_msg(0x1, 40, 51, cbd0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 d1 cb a0 02 
+usb_control_msg(0x1, 40, 51, 2a0, 1, 0x46a418, 10, 3e8): eb 3f 4f 4f 88 cf 51 b6 72 f5 1e 71 9e 61 4c fa 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 9b 0c 00 00 81 dd ba f4 
+usb_control_msg(0x1, 40, 51, f4b0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 a1 d4 7a fa 
+usb_control_msg(0x1, 40, 51, fa70, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 c6 fa 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 91 9d d8 ca 19 36 f3 8c e5 ea 50 00 17 c4 67 d2 90 02 36 ea 
+usb_control_msg(0x1, 40, 51, ea30, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 c6 fa 00 00 00 00 b1 f4 d4 cb 
+usb_control_msg(0x1, 40, 51, cbd0, 1, 0x46a418, 10, 3e8): 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 31 ea 14 e6 
+usb_control_msg(0x1, 40, 51, e610, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 f9 b0 02 
+usb_control_msg(0x1, 40, 51, 2b0, 1, 0x46a418, 10, 3e8): 5d 3f 93 3c c2 8f b0 cf 51 b6 79 85 1e b1 17 39 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 c6 fa 00 00 00 00 70 fa ba f4 
+usb_control_msg(0x1, 40, 51, f4b0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 c6 fa 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 39 05 00 00 00 00 00 00 00 00 00 00 11 e6 36 ea 
+usb_control_msg(0x1, 40, 51, ea30, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 d0 cb 14 e6 
+usb_control_msg(0x1, 40, 51, e610, 1, 0x46a418, 10, 3e8): 00 00 00 00 39 05 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 31 ea c0 02 
+usb_control_msg(0x1, 40, 51, 2c0, 1, 0x46a418, 10, 3e8): 7a 8f 58 cf c1 76 7d 2e 9f 69 9f 82 e7 b1 45 cf 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): eb 3f 4f 4f 88 cf 51 b6 72 f5 1e 71 9e 61 4c fa a0 02 d4 cb 
+usb_control_msg(0x1, 40, 51, cbd0, 1, 0x46a418, 10, 3e8): 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 c6 fa 00 00 00 00 b0 f4 2e f8 
+usb_control_msg(0x1, 40, 51, f820, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 39 05 00 00 00 00 00 00 00 00 00 00 10 e6 ba f4 
+usb_control_msg(0x1, 40, 51, f4b0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 c6 fa 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 d0 cb d0 02 
+usb_control_msg(0x1, 40, 51, 2d0, 1, 0x46a418, 10, 3e8): c1 73 ee 33 f0 5d 15 ea 99 f8 2e 78 16 7a 8d b3 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 c6 fa 00 00 00 00 b0 f4 36 ea 
+usb_control_msg(0x1, 40, 51, ea30, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7a 8f 58 cf c1 76 7d 2e 9f 69 9f 82 e7 b1 45 cf c0 02 e0 02 
+usb_control_msg(0x1, 40, 51, 2e0, 1, 0x46a418, 10, 3e8): f0 5c fa 89 b9 ea 36 7d 06 72 f5 33 e9 74 f4 8c 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): c1 73 ee 33 f0 5d 15 ea 99 f8 2e 78 16 7a 8d b3 d0 02 d4 cb 
+usb_control_msg(0x1, 40, 51, cbd0, 1, 0x46a418, 10, 3e8): 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 c7 fa 00 00 00 00 00 00 00 00 31 ea ba f4 
+usb_control_msg(0x1, 40, 51, f4b0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 c6 fa 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d1 cb f0 02 
+usb_control_msg(0x1, 40, 51, 2f0, 1, 0x46a418, 10, 3e8): fa 5d 67 2f 51 e5 19 cb d4 9a f9 70 0e 7d 2e 84 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 c6 fa 21 f8 d4 cb 
+usb_control_msg(0x1, 40, 51, cbd0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): f0 5c fa 89 b9 ea 36 7d 06 72 f5 33 e9 74 f4 8c e0 02 00 03 
+usb_control_msg(0x1, 40, 51, 300, 1, 0x46a418, 10, 3e8): 45 9d d8 cb 9b 1c fd 1c fa 5d 67 d2 e8 2f c0 3a 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 b1 f4 8c dd 
+usb_control_msg(0x1, 40, 51, dd80, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 9b 0c 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 c7 fa 00 00 00 00 00 00 00 00 00 00 d1 cb ba f4 
+usb_control_msg(0x1, 40, 51, f4b0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): fa 5d 67 2f 51 e5 19 cb d4 9a f9 70 0e 7d 2e 84 f0 02 10 03 
+usb_control_msg(0x1, 40, 51, 310, 1, 0x46a418, 10, 3e8): 05 46 f9 4c ee c6 3f 1c 03 9d d8 c7 84 67 e9 eb 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 45 9d d8 cb 9b 1c fd 1c fa 5d 67 d2 e8 2f c0 3a 00 03 7a fa 
+usb_control_msg(0x1, 40, 51, fa70, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 c6 fa 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 c8 e6 00 00 81 dd 20 03 
+usb_control_msg(0x1, 40, 51, 320, 1, 0x46a418, 10, 3e8): 39 7a 8f c8 9b 4c 59 de b1 9f bc 08 cf b8 cf 96 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 b1 f4 d4 cb 
+usb_control_msg(0x1, 40, 51, cbd0, 1, 0x46a418, 10, 3e8): 00 00 00 00 c7 fa 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 c7 fa 00 00 00 00 71 fa c0 fb 
+usb_control_msg(0x1, 40, 51, fbc0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 1a 9c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 c1 fb 30 03 
+usb_control_msg(0x1, 40, 51, 330, 1, 0x46a418, 10, 3e8): 76 7e 9e 9f 71 17 3f 78 0f 58 ce ea 76 7c b3 9e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 5d 3f 93 3c c2 8f b0 cf 51 b6 79 85 1e b1 17 39 b0 02 ce f2 
+usb_control_msg(0x1, 40, 51, f2c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 05 46 f9 4c ee c6 3f 1c 03 9d d8 c7 84 67 e9 eb 10 03 7a fa 
+usb_control_msg(0x1, 40, 51, fa70, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 c7 fa 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 c7 fa 00 00 00 00 00 00 00 00 00 00 d0 cb c0 fb 
+usb_control_msg(0x1, 40, 51, fbc0, 1, 0x46a418, 10, 3e8): 1a 9c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 39 7a 8f c8 9b 4c 59 de b1 9f bc 08 cf b8 cf 96 20 03 4e dd 
+usb_control_msg(0x1, 40, 51, dd40, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 c7 fa 00 00 00 00 70 fa 40 03 
+usb_control_msg(0x1, 40, 51, 340, 1, 0x46a418, 10, 3e8): c9 9d d4 e7 98 45 ce ea 73 c2 33 8d 8d 9f bc 07 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 76 7e 9e 9f 71 17 3f 78 0f 58 ce ea 76 7c b3 9e 30 03 c6 c6 
+usb_control_msg(0x1, 40, 51, c6c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 1a 9c 00 00 00 00 00 00 00 00 c1 c6 50 03 
+usb_control_msg(0x1, 40, 51, 350, 1, 0x46a418, 10, 3e8): e2 67 1b 19 fc 19 c6 c6 cf 96 73 c0 a2 e7 1b 19 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 38 05 41 dd c6 c6 
+usb_control_msg(0x1, 40, 51, c6c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 1a 9c 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): c9 9d d4 e7 98 45 ce ea 73 c2 33 8d 8d 9f bc 07 40 03 60 03 
+usb_control_msg(0x1, 40, 51, 360, 1, 0x46a418, 10, 3e8): f5 19 d1 e4 8a fa 0c fd e0 67 cb 39 ef 19 f2 ce 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 c5 62 00 00 00 00 00 00 00 00 c1 c6 e4 d1 
+usb_control_msg(0x1, 40, 51, d1e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): e2 67 1b 19 fc 19 c6 c6 cf 96 73 c0 a2 e7 1b 19 50 03 70 03 
+usb_control_msg(0x1, 40, 51, 370, 1, 0x46a418, 10, 3e8): cf de 03 ea 33 f7 81 9d 1e 4f 7b 80 73 e5 9d 52 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): f5 19 d1 e4 8a fa 0c fd e0 67 cb 39 ef 19 f2 ce 60 03 80 03 
+usb_control_msg(0x1, 40, 51, 380, 1, 0x46a418, 10, 3e8): 29 b7 72 ea de 39 f2 ce cf 96 76 87 80 54 0c cd 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 dd 66 00 00 00 00 00 00 00 00 00 00 e1 d1 33 03 
+usb_control_msg(0x1, 40, 51, 330, 1, 0x46a418, 10, 3e8): 76 7e 9e 9f 71 17 3f 78 0f 58 ce ea 76 7c b3 9e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): cf de 03 ea 33 f7 81 9d 1e 4f 7b 80 73 e5 9d 52 70 03 4e dd 
+usb_control_msg(0x1, 40, 51, dd40, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 38 05 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 04 30 41 dd 40 03 
+usb_control_msg(0x1, 40, 51, 340, 1, 0x46a418, 10, 3e8): c9 9d d4 e7 98 45 ce ea 73 c2 33 8d 8d 9f bc 07 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 29 b7 72 ea de 39 f2 ce cf 96 76 87 80 54 0c cd 80 03 4e dd 
+usb_control_msg(0x1, 40, 51, dd40, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 04 30 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 fb cf 41 dd c6 c6 
+usb_control_msg(0x1, 40, 51, c6c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 c5 62 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 dd 66 00 00 00 00 00 00 00 00 c1 c6 50 03 
+usb_control_msg(0x1, 40, 51, 350, 1, 0x46a418, 10, 3e8): e2 67 1b 19 fc 19 c6 c6 cf 96 73 c0 a2 e7 1b 19 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 76 7e 9e 9f 71 17 3f 78 0f 58 ce ea 76 7c b3 9e 30 03 c6 c6 
+usb_control_msg(0x1, 40, 51, c6c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 dd 66 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): c9 9d d4 e7 98 45 ce ea 73 c2 33 8d 8d 9f bc 07 40 03 60 03 
+usb_control_msg(0x1, 40, 51, 360, 1, 0x46a418, 10, 3e8): f5 19 d1 e4 8a fa 0c fd e0 67 cb 39 ef 19 f2 ce 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 c1 c6 e4 d1 
+usb_control_msg(0x1, 40, 51, d1e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 dd 66 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): e2 67 1b 19 fc 19 c6 c6 cf 96 73 c0 a2 e7 1b 19 50 03 70 03 
+usb_control_msg(0x1, 40, 51, 370, 1, 0x46a418, 10, 3e8): cf de 03 ea 33 f7 81 9d 1e 4f 7b 80 73 e5 9d 52 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): f5 19 d1 e4 8a fa 0c fd e0 67 cb 39 ef 19 f2 ce 60 03 80 03 
+usb_control_msg(0x1, 40, 51, 380, 1, 0x46a418, 10, 3e8): 29 b7 72 ea de 39 f2 ce cf 96 76 87 80 54 0c cd 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 d9 56 00 00 00 00 00 00 00 00 00 00 e1 d1 33 03 
+usb_control_msg(0x1, 40, 51, 330, 1, 0x46a418, 10, 3e8): 76 7e 9e 9f 71 17 3f 78 0f 58 ce ea 76 7c b3 9e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): cf de 03 ea 33 f7 81 9d 1e 4f 7b 80 73 e5 9d 52 70 03 4e dd 
+usb_control_msg(0x1, 40, 51, dd40, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 fb cf 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 29 b7 72 ea de 39 f2 ce cf 96 76 87 80 54 0c cd 80 03 40 03 
+usb_control_msg(0x1, 40, 51, 340, 1, 0x46a418, 10, 3e8): c9 9d d4 e7 98 45 ce ea 73 c2 33 8d 8d 9f bc 07 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f7 bf 41 dd c6 c6 
+usb_control_msg(0x1, 40, 51, c6c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 d9 56 00 00 00 00 00 00 00 00 c1 c6 50 03 
+usb_control_msg(0x1, 40, 51, 350, 1, 0x46a418, 10, 3e8): e2 67 1b 19 fc 19 c6 c6 cf 96 73 c0 a2 e7 1b 19 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 76 7e 9e 9f 71 17 3f 78 0f 58 ce ea 76 7c b3 9e 30 03 c6 c6 
+usb_control_msg(0x1, 40, 51, c6c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 d9 56 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): c9 9d d4 e7 98 45 ce ea 73 c2 33 8d 8d 9f bc 07 40 03 60 03 
+usb_control_msg(0x1, 40, 51, 360, 1, 0x46a418, 10, 3e8): f5 19 d1 e4 8a fa 0c fd e0 67 cb 39 ef 19 f2 ce 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 c1 c6 e4 d1 
+usb_control_msg(0x1, 40, 51, d1e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 d9 56 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): e2 67 1b 19 fc 19 c6 c6 cf 96 73 c0 a2 e7 1b 19 50 03 70 03 
+usb_control_msg(0x1, 40, 51, 370, 1, 0x46a418, 10, 3e8): cf de 03 ea 33 f7 81 9d 1e 4f 7b 80 73 e5 9d 52 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): f5 19 d1 e4 8a fa 0c fd e0 67 cb 39 ef 19 f2 ce 60 03 80 03 
+usb_control_msg(0x1, 40, 51, 380, 1, 0x46a418, 10, 3e8): 29 b7 72 ea de 39 f2 ce cf 96 76 87 80 54 0c cd 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 d1 16 00 00 00 00 00 00 00 00 00 00 e1 d1 33 03 
+usb_control_msg(0x1, 40, 51, 330, 1, 0x46a418, 10, 3e8): 76 7e 9e 9f 71 17 3f 78 0f 58 ce ea 76 7c b3 9e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): cf de 03 ea 33 f7 81 9d 1e 4f 7b 80 73 e5 9d 52 70 03 4e dd 
+usb_control_msg(0x1, 40, 51, dd40, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f7 bf 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 29 b7 72 ea de 39 f2 ce cf 96 76 87 80 54 0c cd 80 03 40 03 
+usb_control_msg(0x1, 40, 51, 340, 1, 0x46a418, 10, 3e8): c9 9d d4 e7 98 45 ce ea 73 c2 33 8d 8d 9f bc 07 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ef 7f 41 dd c6 c6 
+usb_control_msg(0x1, 40, 51, c6c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 d1 16 00 00 00 00 00 00 00 00 c1 c6 50 03 
+usb_control_msg(0x1, 40, 51, 350, 1, 0x46a418, 10, 3e8): e2 67 1b 19 fc 19 c6 c6 cf 96 73 c0 a2 e7 1b 19 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 76 7e 9e 9f 71 17 3f 78 0f 58 ce ea 76 7c b3 9e 30 03 c6 c6 
+usb_control_msg(0x1, 40, 51, c6c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 d1 16 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): c9 9d d4 e7 98 45 ce ea 73 c2 33 8d 8d 9f bc 07 40 03 60 03 
+usb_control_msg(0x1, 40, 51, 360, 1, 0x46a418, 10, 3e8): f5 19 d1 e4 8a fa 0c fd e0 67 cb 39 ef 19 f2 ce 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 c1 c6 e4 d1 
+usb_control_msg(0x1, 40, 51, d1e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 d1 16 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): e2 67 1b 19 fc 19 c6 c6 cf 96 73 c0 a2 e7 1b 19 50 03 70 03 
+usb_control_msg(0x1, 40, 51, 370, 1, 0x46a418, 10, 3e8): cf de 03 ea 33 f7 81 9d 1e 4f 7b 80 73 e5 9d 52 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): f5 19 d1 e4 8a fa 0c fd e0 67 cb 39 ef 19 f2 ce 60 03 80 03 
+usb_control_msg(0x1, 40, 51, 380, 1, 0x46a418, 10, 3e8): 29 b7 72 ea de 39 f2 ce cf 96 76 87 80 54 0c cd 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 c1 96 00 00 00 00 00 00 00 00 00 00 e1 d1 33 03 
+usb_control_msg(0x1, 40, 51, 330, 1, 0x46a418, 10, 3e8): 76 7e 9e 9f 71 17 3f 78 0f 58 ce ea 76 7c b3 9e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): cf de 03 ea 33 f7 81 9d 1e 4f 7b 80 73 e5 9d 52 70 03 4e dd 
+usb_control_msg(0x1, 40, 51, dd40, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ef 7f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 29 b7 72 ea de 39 f2 ce cf 96 76 87 80 54 0c cd 80 03 40 03 
+usb_control_msg(0x1, 40, 51, 340, 1, 0x46a418, 10, 3e8): c9 9d d4 e7 98 45 ce ea 73 c2 33 8d 8d 9f bc 07 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 df ff 41 dd c6 c6 
+usb_control_msg(0x1, 40, 51, c6c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 80 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 c1 96 00 00 00 00 00 00 00 00 c1 c6 50 03 
+usb_control_msg(0x1, 40, 51, 350, 1, 0x46a418, 10, 3e8): e2 67 1b 19 fc 19 c6 c6 cf 96 73 c0 a2 e7 1b 19 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 76 7e 9e 9f 71 17 3f 78 0f 58 ce ea 76 7c b3 9e 30 03 c6 c6 
+usb_control_msg(0x1, 40, 51, c6c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 c1 96 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): c9 9d d4 e7 98 45 ce ea 73 c2 33 8d 8d 9f bc 07 40 03 60 03 
+usb_control_msg(0x1, 40, 51, 360, 1, 0x46a418, 10, 3e8): f5 19 d1 e4 8a fa 0c fd e0 67 cb 39 ef 19 f2 ce 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 20 00 00 00 00 00 00 00 00 00 c1 c6 e4 d1 
+usb_control_msg(0x1, 40, 51, d1e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 c1 96 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): e2 67 1b 19 fc 19 c6 c6 cf 96 73 c0 a2 e7 1b 19 50 03 70 03 
+usb_control_msg(0x1, 40, 51, 370, 1, 0x46a418, 10, 3e8): cf de 03 ea 33 f7 81 9d 1e 4f 7b 80 73 e5 9d 52 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): f5 19 d1 e4 8a fa 0c fd e0 67 cb 39 ef 19 f2 ce 60 03 80 03 
+usb_control_msg(0x1, 40, 51, 380, 1, 0x46a418, 10, 3e8): 29 b7 72 ea de 39 f2 ce cf 96 76 87 80 54 0c cd 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 e1 96 00 00 00 00 00 00 00 00 00 00 e1 d1 90 03 
+usb_control_msg(0x1, 40, 51, 390, 1, 0x46a418, 10, 3e8): f8 93 63 ee 01 9a fb 88 d9 fb c0 7b 46 7c b3 a3 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): cf de 03 ea 33 f7 81 9d 1e 4f 7b 80 73 e5 9d 52 70 03 a0 03 
+usb_control_msg(0x1, 40, 51, 3a0, 1, 0x46a418, 10, 3e8): 3f 23 3a 3c 95 ac 51 e6 99 d1 e4 7e c6 79 32 ab 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 29 b7 72 ea de 39 f2 ce cf 96 76 87 80 54 0c cd 80 03 e4 d1 
+usb_control_msg(0x1, 40, 51, d1e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 e1 96 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 eb 94 00 00 00 00 00 00 00 00 00 00 e1 d1 ca e4 
+usb_control_msg(0x1, 40, 51, e4c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): e1 96 00 00 00 00 00 00 00 00 00 00 00 00 00 00 c1 fb b0 03 
+usb_control_msg(0x1, 40, 51, 3b0, 1, 0x46a418, 10, 3e8): 6b db d6 33 86 79 40 00 5e 51 9f b6 ac e8 f2 3d 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 7b 6d 00 00 00 00 c1 e4 3c c3 
+usb_control_msg(0x1, 40, 51, c330, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 31 c3 6a fb 
+usb_control_msg(0x1, 40, 51, fb60, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): f8 93 63 ee 01 9a fb 88 d9 fb c0 7b 46 7c b3 a3 90 03 e4 d1 
+usb_control_msg(0x1, 40, 51, d1e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 eb 94 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 eb 94 00 00 00 00 61 fb c0 03 
+usb_control_msg(0x1, 40, 51, 3c0, 1, 0x46a418, 10, 3e8): e2 2e 70 cf 1e 09 15 e0 51 73 f6 d4 f7 48 af 08 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 96 c1 f2 3c c3 
+usb_control_msg(0x1, 40, 51, c330, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 3f 23 3a 3c 95 ac 51 e6 99 d1 e4 7e c6 79 32 ab a0 03 6a fb 
+usb_control_msg(0x1, 40, 51, fb60, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 eb 94 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 eb 94 00 00 00 00 00 00 00 00 00 00 e0 d1 d0 03 
+usb_control_msg(0x1, 40, 51, 3d0, 1, 0x46a418, 10, 3e8): cf 8b 66 70 cf 1f c9 9f 16 c7 e0 67 c5 b3 3f 6d 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 6b db d6 33 86 79 40 00 5e 51 9f b6 ac e8 f2 3d b0 03 6c f1 
+usb_control_msg(0x1, 40, 51, f160, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 eb 94 00 00 00 00 60 fb e0 03 
+usb_control_msg(0x1, 40, 51, 3e0, 1, 0x46a418, 10, 3e8): 4f a2 8b 9f 16 c7 cc 67 0b 3a 2b e8 33 86 79 9f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): e2 2e 70 cf 1e 09 15 e0 51 73 f6 d4 f7 48 af 08 c0 03 6a fb 
+usb_control_msg(0x1, 40, 51, fb60, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 eb 94 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): cf 8b 66 70 cf 1f c9 9f 16 c7 e0 67 c5 b3 3f 6d d0 03 ce c2 
+usb_control_msg(0x1, 40, 51, c2c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 eb 94 00 00 00 00 60 fb f0 03 
+usb_control_msg(0x1, 40, 51, 3f0, 1, 0x46a418, 10, 3e8): b6 a7 ac 67 ed ab 38 67 8f c8 ce 19 e6 70 b3 a9 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ea 94 c1 c2 6a fb 
+usb_control_msg(0x1, 40, 51, fb60, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 eb 94 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 4f a2 8b 9f 16 c7 cc 67 0b 3a 2b e8 33 86 79 9f e0 03 ce c2 
+usb_control_msg(0x1, 40, 51, c2c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ea 94 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 61 fb 00 04 
+usb_control_msg(0x1, 40, 51, 400, 1, 0x46a418, 10, 3e8): ee 01 cf db 57 88 b3 c9 95 68 53 f7 e3 9f b6 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 ea 94 00 00 61 f1 6a fb 
+usb_control_msg(0x1, 40, 51, fb60, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ea 94 c0 c2 ca e4 
+usb_control_msg(0x1, 40, 51, e4c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 7b 6d 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): b6 a7 ac 67 ed ab 38 67 8f c8 ce 19 e6 70 b3 a9 f0 03 10 04 
+usb_control_msg(0x1, 40, 51, 410, 1, 0x46a418, 10, 3e8): fd b5 44 78 03 40 ef df a9 9e 4c ae 7b 80 73 c9 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 7b 6d 00 00 00 00 c0 e4 bf 03 
+usb_control_msg(0x1, 40, 51, 3b0, 1, 0x46a418, 10, 3e8): 6b db d6 33 86 79 40 00 5e 51 9f b6 ac e8 f2 3d 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): ee 01 cf db 57 88 b3 c9 95 68 53 f7 e3 9f b6 ac 00 04 c0 03 
+usb_control_msg(0x1, 40, 51, 3c0, 1, 0x46a418, 10, 3e8): e2 2e 70 cf 1e 09 15 e0 51 73 f6 d4 f7 48 af 08 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): fd b5 44 78 03 40 ef df a9 9e 4c ae 7b 80 73 c9 10 04 d0 03 
+usb_control_msg(0x1, 40, 51, 3d0, 1, 0x46a418, 10, 3e8): cf 8b 66 70 cf 1f c9 9f 16 c7 e0 67 c5 b3 3f 6d 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 6b db d6 33 86 79 40 00 5e 51 9f b6 ac e8 f2 3d b0 03 6c f1 
+usb_control_msg(0x1, 40, 51, f160, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 ea 94 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 15 6b 00 00 61 f1 e0 03 
+usb_control_msg(0x1, 40, 51, 3e0, 1, 0x46a418, 10, 3e8): 4f a2 8b 9f 16 c7 cc 67 0b 3a 2b e8 33 86 79 9f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 61 fb 6c f1 
+usb_control_msg(0x1, 40, 51, f160, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 15 6b 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): e2 2e 70 cf 1e 09 15 e0 51 73 f6 d4 f7 48 af 08 c0 03 6a fb 
+usb_control_msg(0x1, 40, 51, fb60, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): cf 8b 66 70 cf 1f c9 9f 16 c7 e0 67 c5 b3 3f 6d d0 03 ce c2 
+usb_control_msg(0x1, 40, 51, c2c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ea 94 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 94 c1 c2 f0 03 
+usb_control_msg(0x1, 40, 51, 3f0, 1, 0x46a418, 10, 3e8): b6 a7 ac 67 ed ab 38 67 8f c8 ce 19 e6 70 b3 a9 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 4f a2 8b 9f 16 c7 cc 67 0b 3a 2b e8 33 86 79 9f e0 03 ce c2 
+usb_control_msg(0x1, 40, 51, c2c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 94 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 61 fb 00 04 
+usb_control_msg(0x1, 40, 51, 400, 1, 0x46a418, 10, 3e8): ee 01 cf db 57 88 b3 c9 95 68 53 f7 e3 9f b6 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 61 f1 6a fb 
+usb_control_msg(0x1, 40, 51, fb60, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 94 c0 c2 ca e4 
+usb_control_msg(0x1, 40, 51, e4c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 7b 6d 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): b6 a7 ac 67 ed ab 38 67 8f c8 ce 19 e6 70 b3 a9 f0 03 10 04 
+usb_control_msg(0x1, 40, 51, 410, 1, 0x46a418, 10, 3e8): fd b5 44 78 03 40 ef df a9 9e 4c ae 7b 80 73 c9 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 7b 6d 00 00 00 00 c0 e4 bf 03 
+usb_control_msg(0x1, 40, 51, 3b0, 1, 0x46a418, 10, 3e8): 6b db d6 33 86 79 40 00 5e 51 9f b6 ac e8 f2 3d 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): ee 01 cf db 57 88 b3 c9 95 68 53 f7 e3 9f b6 ac 00 04 c0 03 
+usb_control_msg(0x1, 40, 51, 3c0, 1, 0x46a418, 10, 3e8): e2 2e 70 cf 1e 09 15 e0 51 73 f6 d4 f7 48 af 08 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): fd b5 44 78 03 40 ef df a9 9e 4c ae 7b 80 73 c9 10 04 d0 03 
+usb_control_msg(0x1, 40, 51, 3d0, 1, 0x46a418, 10, 3e8): cf 8b 66 70 cf 1f c9 9f 16 c7 e0 67 c5 b3 3f 6d 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 6b db d6 33 86 79 40 00 5e 51 9f b6 ac e8 f2 3d b0 03 6c f1 
+usb_control_msg(0x1, 40, 51, f160, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 17 6b 00 00 61 f1 e0 03 
+usb_control_msg(0x1, 40, 51, 3e0, 1, 0x46a418, 10, 3e8): 4f a2 8b 9f 16 c7 cc 67 0b 3a 2b e8 33 86 79 9f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 04 00 00 00 00 00 61 fb 6c f1 
+usb_control_msg(0x1, 40, 51, f160, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 17 6b 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): e2 2e 70 cf 1e 09 15 e0 51 73 f6 d4 f7 48 af 08 c0 03 6a fb 
+usb_control_msg(0x1, 40, 51, fb60, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 04 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): cf 8b 66 70 cf 1f c9 9f 16 c7 e0 67 c5 b3 3f 6d d0 03 ce c2 
+usb_control_msg(0x1, 40, 51, c2c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e8 94 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ec 94 c1 c2 f0 03 
+usb_control_msg(0x1, 40, 51, 3f0, 1, 0x46a418, 10, 3e8): b6 a7 ac 67 ed ab 38 67 8f c8 ce 19 e6 70 b3 a9 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 4f a2 8b 9f 16 c7 cc 67 0b 3a 2b e8 33 86 79 9f e0 03 ce c2 
+usb_control_msg(0x1, 40, 51, c2c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ec 94 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 61 fb 00 04 
+usb_control_msg(0x1, 40, 51, 400, 1, 0x46a418, 10, 3e8): ee 01 cf db 57 88 b3 c9 95 68 53 f7 e3 9f b6 ac 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 04 00 00 00 61 f1 6a fb 
+usb_control_msg(0x1, 40, 51, fb60, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ec 94 c0 c2 ca e4 
+usb_control_msg(0x1, 40, 51, e4c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 7b 6d 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): b6 a7 ac 67 ed ab 38 67 8f c8 ce 19 e6 70 b3 a9 f0 03 10 04 
+usb_control_msg(0x1, 40, 51, 410, 1, 0x46a418, 10, 3e8): fd b5 44 78 03 40 ef df a9 9e 4c ae 7b 80 73 c9 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 84 92 00 00 00 00 c1 e4 20 04 
+usb_control_msg(0x1, 40, 51, 420, 1, 0x46a418, 10, 3e8): 94 f2 8c e8 f2 67 0c f1 e9 19 e6 ea a9 a4 ef 78 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): ee 01 cf db 57 88 b3 c9 95 68 53 f7 e3 9f b6 ac 00 04 ca e4 
+usb_control_msg(0x1, 40, 51, e4c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 84 92 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): fd b5 44 78 03 40 ef df a9 9e 4c ae 7b 80 73 c9 10 04 e4 d1 
+usb_control_msg(0x1, 40, 51, d1e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 eb 94 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 ec 94 00 00 00 00 00 00 00 00 00 00 e1 d1 ea e6 
+usb_control_msg(0x1, 40, 51, e6e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 27 4d 00 00 00 00 e1 e6 30 04 
+usb_control_msg(0x1, 40, 51, 430, 1, 0x46a418, 10, 3e8): ce 4e 46 7c b3 9f 51 9c 82 ac e8 f2 3d a3 38 e3 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 08 25 00 00 00 00 c1 e4 c8 c9 
+usb_control_msg(0x1, 40, 51, c9c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 61 fb ce f2 
+usb_control_msg(0x1, 40, 51, f2c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 96 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 94 f2 8c e8 f2 67 0c f1 e9 19 e6 ea a9 a4 ef 78 20 04 2a c8 
+usb_control_msg(0x1, 40, 51, c820, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 e1 96 00 00 00 00 00 00 c1 c9 e4 d1 
+usb_control_msg(0x1, 40, 51, d1e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 ec 94 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 ec 94 00 00 00 00 21 c8 40 04 
+usb_control_msg(0x1, 40, 51, 440, 1, 0x46a418, 10, 3e8): d9 c9 c8 7d 96 71 c7 b3 90 54 f6 88 b9 c9 c8 7b 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 ec 94 00 00 31 c3 1e c7 
+usb_control_msg(0x1, 40, 51, c710, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 96 c0 f2 c8 c9 
+usb_control_msg(0x1, 40, 51, c9c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 e1 96 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 ec 94 00 00 00 00 00 00 00 00 00 00 e0 d1 2a c8 
+usb_control_msg(0x1, 40, 51, c820, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 ec 94 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): ce 4e 46 7c b3 9f 51 9c 82 ac e8 f2 3d a3 38 e3 30 04 50 04 
+usb_control_msg(0x1, 40, 51, 450, 1, 0x46a418, 10, 3e8): 04 5c e4 15 3d 52 2b e8 33 8e 3d 15 e1 13 73 8e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 e1 96 00 00 00 00 00 00 c0 c9 60 04 
+usb_control_msg(0x1, 40, 51, 460, 1, 0x46a418, 10, 3e8): 3c f8 0c e4 e4 67 20 a9 eb 19 c8 2a ce 4e 43 e6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): d9 c9 c8 7d 96 71 c7 b3 90 54 f6 88 b9 c9 c8 7b 40 04 c8 c9 
+usb_control_msg(0x1, 40, 51, c9c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 e1 96 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 04 5c e4 15 3d 52 2b e8 33 8e 3d 15 e1 13 73 8e 50 04 70 04 
+usb_control_msg(0x1, 40, 51, 470, 1, 0x46a418, 10, 3e8): 33 93 91 35 e8 e0 1c e4 15 09 8b 3c dd 57 45 25 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 0d 02 00 00 00 00 00 00 c1 c9 ea e6 
+usb_control_msg(0x1, 40, 51, e6e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 27 4d 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 6f dd 00 00 00 00 e1 e6 80 04 
+usb_control_msg(0x1, 40, 51, 480, 1, 0x46a418, 10, 3e8): f0 39 c8 2a ce 41 50 67 80 34 10 f1 fa 99 e6 ea 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 33 93 91 35 e8 e0 1c e4 15 09 8b 3c dd 57 45 25 70 04 3c 04 
+usb_control_msg(0x1, 40, 51, 430, 1, 0x46a418, 10, 3e8): ce 4e 46 7c b3 9f 51 9c 82 ac e8 f2 3d a3 38 e3 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 c0 29 00 00 00 00 21 c8 40 04 
+usb_control_msg(0x1, 40, 51, 440, 1, 0x46a418, 10, 3e8): d9 c9 c8 7d 96 71 c7 b3 90 54 f6 88 b9 c9 c8 7b 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 3c f8 0c e4 e4 67 20 a9 eb 19 c8 2a ce 4e 43 e6 60 04 c8 c9 
+usb_control_msg(0x1, 40, 51, c9c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 0d 02 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): f0 39 c8 2a ce 41 50 67 80 34 10 f1 fa 99 e6 ea 80 04 2a c8 
+usb_control_msg(0x1, 40, 51, c820, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 c0 29 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): ce 4e 46 7c b3 9f 51 9c 82 ac e8 f2 3d a3 38 e3 30 04 50 04 
+usb_control_msg(0x1, 40, 51, 450, 1, 0x46a418, 10, 3e8): 04 5c e4 15 3d 52 2b e8 33 8e 3d 15 e1 13 73 8e 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 0d 02 00 00 00 00 00 00 c0 c9 60 04 
+usb_control_msg(0x1, 40, 51, 460, 1, 0x46a418, 10, 3e8): 3c f8 0c e4 e4 67 20 a9 eb 19 c8 2a ce 4e 43 e6 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): d9 c9 c8 7d 96 71 c7 b3 90 54 f6 88 b9 c9 c8 7b 40 04 c8 c9 
+usb_control_msg(0x1, 40, 51, c9c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 0d 02 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 04 5c e4 15 3d 52 2b e8 33 8e 3d 15 e1 13 73 8e 50 04 70 04 
+usb_control_msg(0x1, 40, 51, 470, 1, 0x46a418, 10, 3e8): 33 93 91 35 e8 e0 1c e4 15 09 8b 3c dd 57 45 25 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 21 c8 ea e6 
+usb_control_msg(0x1, 40, 51, e6e0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 6f dd 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 cd 2b 00 00 00 00 00 00 c1 c9 80 04 
+usb_control_msg(0x1, 40, 51, 480, 1, 0x46a418, 10, 3e8): f0 39 c8 2a ce 41 50 67 80 34 10 f1 fa 99 e6 ea 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 cd 2b 11 c7 2a c8 
+usb_control_msg(0x1, 40, 51, c820, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 3c f8 0c e4 e4 67 20 a9 eb 19 c8 2a ce 4e 43 e6 60 04 90 04 
+usb_control_msg(0x1, 40, 51, 490, 1, 0x46a418, 10, 3e8): 79 38 07 3c dd 4f b8 cf 96 76 72 72 1f 43 9f 2c 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 33 93 91 35 e8 e0 1c e4 15 09 8b 3c dd 57 45 25 70 04 ce f2 
+usb_control_msg(0x1, 40, 51, f2c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 e1 96 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 20 45 00 00 00 00 e1 e6 c8 c9 
+usb_control_msg(0x1, 40, 51, c9c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 cd 2b 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 cd 2b c1 f2 a0 04 
+usb_control_msg(0x1, 40, 51, 4a0, 1, 0x46a418, 10, 3e8): ec f9 67 00 e3 3f a4 14 21 30 03 19 c1 a4 bb d5 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 21 c8 ce f2 
+usb_control_msg(0x1, 40, 51, f2c0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 cd 2b 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): f0 39 c8 2a ce 41 50 67 80 34 10 f1 fa 99 e6 ea 80 04 20 fd 
+usb_control_msg(0x1, 40, 51, fd20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 cd 2b 00 00 00 00 00 00 c0 c9 a4 c1 
+usb_control_msg(0x1, 40, 51, c1a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 79 38 07 3c dd 4f b8 cf 96 76 72 72 1f 43 9f 2c 90 04 b0 04 
+usb_control_msg(0x1, 40, 51, 4b0, 1, 0x46a418, 10, 3e8): a0 78 ce ab 44 80 0c 67 60 03 38 34 80 e4 ce c0 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 cd 2b c1 f2 68 d5 
+usb_control_msg(0x1, 40, 51, d560, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 20 fd 00 d8 
+usb_control_msg(0x1, 40, 51, d800, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): ec f9 67 00 e3 3f a4 14 21 30 03 19 c1 a4 bb d5 a0 04 c0 04 
+usb_control_msg(0x1, 40, 51, 4c0, 1, 0x46a418, 10, 3e8): 00 1c b3 b0 01 9d 56 80 02 67 60 00 03 19 e6 b8 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 a0 c1 d0 04 
+usb_control_msg(0x1, 40, 51, 4d0, 1, 0x46a418, 10, 3e8): ce 0d 20 25 33 cd 70 03 0c f3 5c 67 55 a0 0e 59 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): a0 78 ce ab 44 80 0c 67 60 03 38 34 80 e4 ce c0 b0 04 b8 e6 
+usb_control_msg(0x1, 40, 51, e6b0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 60 d5 a4 c1 
+usb_control_msg(0x1, 40, 51, c1a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d8 68 d5 
+usb_control_msg(0x1, 40, 51, d560, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 1c b3 b0 01 9d 56 80 02 67 60 00 03 19 e6 b8 c0 04 e0 04 
+usb_control_msg(0x1, 40, 51, 4e0, 1, 0x46a418, 10, 3e8): d8 00 cf 35 c0 32 33 e1 b5 9d 80 00 00 67 06 93 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 a0 c1 00 d8 
+usb_control_msg(0x1, 40, 51, d800, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 60 d5 da f0 
+usb_control_msg(0x1, 40, 51, f0d0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): ce 0d 20 25 33 cd 70 03 0c f3 5c 67 55 a0 0e 59 d0 04 a4 c1 
+usb_control_msg(0x1, 40, 51, c1a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 b0 e6 f0 04 
+usb_control_msg(0x1, 40, 51, 4f0, 1, 0x46a418, 10, 3e8): 3a ad 00 58 ce ab 46 70 69 00 91 9c 1a 4c f8 6d 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 f0 68 d5 
+usb_control_msg(0x1, 40, 51, d560, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d8 00 05 
+usb_control_msg(0x1, 40, 51, 500, 1, 0x46a418, 10, 3e8): 6f dc 03 9d 56 88 11 67 f4 82 da 7e ef c7 3a ad 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): d8 00 cf 35 c0 32 33 e1 b5 9d 80 00 00 67 06 93 e0 04 da f0 
+usb_control_msg(0x1, 40, 51, f0d0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 a0 c1 20 fd 
+usb_control_msg(0x1, 40, 51, fd20, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 f0 10 05 
+usb_control_msg(0x1, 40, 51, 510, 1, 0x46a418, 10, 3e8): 19 d5 68 0a 70 a6 a3 c0 4a 09 6a f1 4c fe 90 67 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): ff ff 00 00 00 00 00 00 00 00 00 00 00 00 00 00 21 fd 20 05 
+usb_control_msg(0x1, 40, 51, 520, 1, 0x46a418, 10, 3e8): dc 03 9f d2 00 24 66 80 03 38 34 80 68 ce fe 84 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 61 d5 20 fd 
+usb_control_msg(0x1, 40, 51, fd20, 1, 0x46a418, 10, 3e8): ff ff 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 19 d5 68 0a 70 a6 a3 c0 4a 09 6a f1 4c fe 90 67 10 05 00 a0 
+usb_control_msg(0x1, 40, 51, a000, 1, 0x46a418, 10, 3e8): 64 09 e3 c3 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): fe ff 00 00 00 00 00 00 00 00 00 00 00 00 00 00 21 fd a4 c1 
+usb_control_msg(0x1, 40, 51, c1a0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 3a ad 00 58 ce ab 46 70 69 00 91 9c 1a 4c f8 6d f0 04 d0 df 
+usb_control_msg(0x1, 40, 51, dfd0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 6f dc 03 9d 56 88 11 67 f4 82 da 7e ef c7 3a ad 00 05 30 05 
+usb_control_msg(0x1, 40, 51, 530, 1, 0x46a418, 10, 3e8): 60 3c 67 9c e2 df 77 82 d3 3c e7 00 90 ce fe 86 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 64 09 e3 c3 00 00 00 00 00 00 00 00 00 00 00 00 00 a0 38 e7 
+usb_control_msg(0x1, 40, 51, e730, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 a0 c1 40 05 
+usb_control_msg(0x1, 40, 51, 540, 1, 0x46a418, 10, 3e8): 79 ce 00 51 9d 25 c8 c0 84 ce 92 e0 38 33 a4 b9 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): dc 03 9f d2 00 24 66 80 03 38 34 80 68 ce fe 84 20 05 5c d2 
+usb_control_msg(0x1, 40, 51, d250, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 df 50 05 
+usb_control_msg(0x1, 40, 51, 550, 1, 0x46a418, 10, 3e8): 6f bb c1 05 9d fd 0c e9 2e 01 a3 34 00 59 df d0 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 60 3c 67 9c e2 df 77 82 d3 3c e7 00 90 ce fe 86 30 05 d0 df 
+usb_control_msg(0x1, 40, 51, dfd0, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 30 e7 02 a0 
+usb_control_msg(0x1, 40, 51, a000, 1, 0x46a418, 10, 3e8): 64 09 e3 c3 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 79 ce 00 51 9d 25 c8 c0 84 ce 92 e0 38 33 a4 b9 40 05 60 05 
+usb_control_msg(0x1, 40, 51, 560, 1, 0x46a418, 10, 3e8): 7a c6 72 c7 a0 bf 8b 39 63 d0 5e 11 98 00 0b bd 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 50 d2 1e cb 
+usb_control_msg(0x1, 40, 51, cb10, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 64 09 e3 c3 00 00 00 00 00 00 00 00 00 00 00 00 00 a0 00 80 
+usb_control_msg(0x1, 40, 51, 8000, 1, 0x46a418, 10, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 09 11 cb 70 05 
+usb_control_msg(0x1, 40, 51, 570, 1, 0x46a418, 10, 3e8): 5a f9 8c c0 01 5b ee f7 f4 40 a0 15 4f 38 81 40 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): ad de ef be 00 00 00 00 00 00 00 00 00 00 00 00 01 80 80 05 
+usb_control_msg(0x1, 40, 51, 580, 1, 0x46a418, 10, 3e8): 2a 9f 91 02 80 55 3e a2 05 00 aa 7b c4 0a 01 54 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 6f bb c1 05 9d fd 0c e9 2e 01 a3 34 00 59 df d0 50 05 90 05 
+usb_control_msg(0x1, 40, 51, 590, 1, 0x46a418, 10, 3e8): fd 88 14 02 a9 fd 10 28 05 53 f2 20 50 0a a7 d4 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d0 df a0 05 
+usb_control_msg(0x1, 40, 51, 5a0, 1, 0x46a418, 10, 3e8): 40 a0 15 4f 18 81 40 2a 9e 71 02 80 55 3d a2 05 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 7a c6 72 c7 a0 bf 8b 39 63 d0 5e 11 98 00 0b bd 60 05 b0 05 
+usb_control_msg(0x1, 40, 51, 5b0, 1, 0x46a418, 10, 3e8): 00 aa 7d 44 0a 01 54 fb 88 14 02 a9 e9 10 28 05 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 5a f9 8c c0 01 5b ee f7 f4 40 a0 15 4f 38 81 40 70 05 c0 05 
+usb_control_msg(0x1, 40, 51, 5c0, 1, 0x46a418, 10, 3e8): 53 c6 20 50 0a a7 b4 40 a0 15 4f b8 81 40 2a 9f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 2a 9f 91 02 80 55 3e a2 05 00 aa 7b c4 0a 01 54 80 05 d0 05 
+usb_control_msg(0x1, 40, 51, 5d0, 1, 0x46a418, 10, 3e8): 11 02 80 55 3d a2 05 00 aa 7e c4 0a 01 54 f5 88 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): fd 88 14 02 a9 fd 10 28 05 53 f2 20 50 0a a7 d4 90 05 e0 05 
+usb_control_msg(0x1, 40, 51, 5e0, 1, 0x46a418, 10, 3e8): 14 02 a9 fb 10 28 05 53 f6 20 50 0a a7 d4 40 a0 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 40 a0 15 4f 18 81 40 2a 9e 71 02 80 55 3d a2 05 a0 05 f0 05 
+usb_control_msg(0x1, 40, 51, 5f0, 1, 0x46a418, 10, 3e8): 15 4f 58 81 40 2a 9f 11 02 80 55 3c 62 05 00 aa 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 00 aa 7d 44 0a 01 54 fb 88 14 02 a9 e9 10 28 05 b0 05 00 06 
+usb_control_msg(0x1, 40, 51, 600, 1, 0x46a418, 10, 3e8): 78 44 0a 01 54 f2 88 14 02 a9 e1 10 28 05 53 f2 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 53 c6 20 50 0a a7 b4 40 a0 15 4f b8 81 40 2a 9f c0 05 10 06 
+usb_control_msg(0x1, 40, 51, 610, 1, 0x46a418, 10, 3e8): 20 50 0a a7 8c 40 a0 15 4f 98 81 40 2a 9e f1 02 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 11 02 80 55 3d a2 05 00 aa 7e c4 0a 01 54 f5 88 d0 05 20 06 
+usb_control_msg(0x1, 40, 51, 620, 1, 0x46a418, 10, 3e8): 80 55 3e 62 05 00 aa 7f 44 0a 01 54 fb 88 14 02 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 14 02 a9 fb 10 28 05 53 f6 20 50 0a a7 d4 40 a0 e0 05 30 06 
+usb_control_msg(0x1, 40, 51, 630, 1, 0x46a418, 10, 3e8): a9 f5 10 28 05 53 d2 20 50 0a a7 9c 40 a0 15 4f 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 15 4f 58 81 40 2a 9f 11 02 80 55 3c 62 05 00 aa f0 05 40 06 
+usb_control_msg(0x1, 40, 51, 640, 1, 0x46a418, 10, 3e8): 88 81 40 2a 9f 91 02 80 55 3d e2 05 00 aa 78 c4 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 78 44 0a 01 54 f2 88 14 02 a9 e1 10 28 05 53 f2 00 06 50 06 
+usb_control_msg(0x1, 40, 51, 650, 1, 0x46a418, 10, 3e8): 0a 01 54 f3 e0 05 00 00 ff 80 00 00 00 00 00 00 
+usb_control_msg(0x1, c0, 56, 0, 0, 0x46a418, 14, 3e8): 20 50 0a a7 8c 40 a0 15 4f 98 81 40 2a 9e f1 02 10 06 00 00 
+Error: bad key2

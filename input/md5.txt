@@ -1,0 +1,3 @@
+98e77e8a5f0daf9f2329f640e8aa7415  irc.log
+9285b67d23744f3bebf71279b8ab112f  secret
+6f94e9a0739ee8950f88adb3d023bbaf  ssticrypt
