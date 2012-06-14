@@ -1,0 +1,519 @@
+[0000:0][c=0][uf=0] mov r4, 0x0000
+[0004:7][c=0][uf=0] mov obf(0xca5c, r4, 0xf), r11
+[0011:0][c=0][uf=0] or obf(0xca5c, r4, 0xf), r10
+[0017:1][c=0][uf=0] mov obf(0xca5c, r4, 0xf), 0x56de
+[0024:6][c=0][uf=0] mov obf(0xe4ac, r4, 0x24), 0x40b7
+[0032:3][c=0][uf=0] mov r11, w[0xa000]
+[0037:4][c=0][uf=0] mov obf(0xeafe, r4, 0x29), r6
+[0043:5][c=0][uf=0] and obf(0xeafe, r4, 0x29), r10
+[0049:6][c=0][uf=0] mov obf(0xec86, r4, 0x25), obf(0xca5c, r4, 0xf)
+[0058:5][c=0][uf=0] and obf(0xec86, r4, 0x25), 0x56fa
+[0066:2][c=0][uf=0] neg obf(0xec86, r4, 0x25)
+[0071:4][c=0][uf=0] mov obf(0xc56a, r4, 0xc), obf(0xca5c, r4, 0xf)
+[0080:3][c=0][uf=0] or obf(0xc56a, r4, 0xc), 0x56fa
+[0088:0][c=0][uf=0] neg obf(0xc56a, r4, 0xc)
+[0093:2][c=0][uf=0] neg obf(0xc56a, r4, 0xc)
+[0098:4][c=0][uf=0] and obf(0xec86, r4, 0x25), obf(0xc56a, r4, 0xc)
+[0107:3][c=0][uf=0] mov obf(0xca5c, r4, 0xf), obf(0xec86, r4, 0x25)
+[0116:2][c=0][uf=0] mov obf(0xe648, r4, 0x28), r12
+[0122:3][c=0][uf=0] mov r0, 0xfb51
+[0127:2][c=0][uf=0] mov obf(0xc56a, r4, 0xc), r11
+[0133:3][c=0][uf=0] or obf(0xc56a, r4, 0xc), obf(0xca5c, r4, 0xf)
+[0142:2][c=0][uf=0] mov obf(0xec86, r4, 0x25), r11
+[0148:3][c=0][uf=0] and obf(0xec86, r4, 0x25), obf(0xca5c, r4, 0xf)
+[0157:2][c=0][uf=0] neg obf(0xec86, r4, 0x25)
+[0162:4][c=0][uf=0] and obf(0xc56a, r4, 0xc), obf(0xec86, r4, 0x25)
+[0171:3][c=0][uf=0] mov obf(0xdf44, r4, 0x37), obf(0xc56a, r4, 0xc)
+[0180:2][c=0][uf=0] mov obf(0xeb02, r4, 0x34), 0x21c7
+[0187:7][c=0][uf=0] shift right obf(0xeb02, r4, 0x34), 1
+[0194:2][c=0][uf=0] mov obf(0xf308, r4, 0x8), w[0xa002]
+[0202:1][c=0][uf=0] mov obf(0xd67c, r4, 0x38), r2
+[0208:2][c=0][uf=0] and obf(0xd67c, r4, 0x38), r9
+[0214:3][c=0][uf=0] mov obf(0xc56a, r4, 0xc), 0x0024
+[0222:0][c=0][uf=0] shift left obf(0xc56a, r4, 0xc), 2
+[0228:3][c=0][uf=0] mov obf(0xca5c, r4, 0xf), obf(0xc56a, r4, 0xc)
+[0237:2][c=0][uf=0] mov obf(0xd1a2, r4, 0x20), r0
+[0243:3][c=0][uf=0] mov obf(0xed58, r4, 0x35), 0xfc51
+[0251:0][c=0][uf=0] neg obf(0xed58, r4, 0x35)
+[0256:2][c=0][uf=0] or obf(0xd1a2, r4, 0x20), obf(0xed58, r4, 0x35)
+[0265:1][c=0][uf=0] mov obf(0xfe22, r4, 0x4), r0
+[0271:2][c=0][uf=0] neg obf(0xfe22, r4, 0x4)
+[0276:4][c=0][uf=0] or obf(0xfe22, r4, 0x4), 0xfc51
+[0284:1][c=0][uf=0] and obf(0xd1a2, r4, 0x20), obf(0xfe22, r4, 0x4)
+[0293:0][c=0][uf=0] neg obf(0xd1a2, r4, 0x20)
+[0298:2][c=0][uf=0] mov r0, obf(0xd1a2, r4, 0x20)
+[0304:3][c=0][uf=0] mov r8, 0x0050
+[0309:2][c=0][uf=0] mov obf(0xdf44, r4, 0x37), 0x0000
+[0316:7][c=0][uf=0] mov obf(0xec86, r4, 0x25), 0x0f2a
+[0324:4][c=0][uf=0] mov obf(0xdd3e, r4, 0x3), 0x0002
+[0332:1][c=0][uf=0] mov obf(0xc7fc, r4, 0x36), obf(0xca5c, r4, 0xf)
+[0341:0][c=0][uf=0] mov obf(0xfe6c, r4, 0xe), obf(0xdd3e, r4, 0x3)
+[0349:7][c=0][uf=0] and obf(0xfe6c, r4, 0xe), obf(0xc7fc, r4, 0x36)
+[0358:6][c=0][uf=0] neg obf(0xfe6c, r4, 0xe)
+[0364:0][c=0][uf=0] mov obf(0xc56a, r4, 0xc), obf(0xdd3e, r4, 0x3)
+[0372:7][c=0][uf=0] or obf(0xc56a, r4, 0xc), obf(0xc7fc, r4, 0x36)
+[0381:6][c=0][uf=0] and obf(0xfe6c, r4, 0xe), obf(0xc56a, r4, 0xc)
+[0390:5][c=0][uf=0] mov obf(0xd1b4, r4, 0x18), obf(0xfe6c, r4, 0xe)
+[0399:4][c=0][uf=0] and obf(0xdd3e, r4, 0x3), obf(0xc7fc, r4, 0x36)
+[0408:3][c=0][uf=0] mov obf(0xc7fc, r4, 0x36), obf(0xdd3e, r4, 0x3)
+[0417:2][c=0][uf=0] mov obf(0xdd3e, r4, 0x3), obf(0xd1b4, r4, 0x18)
+[0426:1][c=0][uf=1] shift left obf(0xc7fc, r4, 0x36), 1
+[0432:4][c=0][uf=0] or c obf(0xec86, r4, 0x25), 0xded2
+[0440:1][c=0][uf=1] and obf(0xc7fc, r4, 0x36), obf(0xc7fc, r4, 0x36)
+[0449:0][c=0][uf=0] jmp nz 0341:0
+[0454:1][c=0][uf=0] neg obf(0xec86, r4, 0x25)
+[0459:3][c=0][uf=1] shift left obf(0xec86, r4, 0x25), 1
+[0465:6][c=0][uf=0] mov obf(0xca5c, r4, 0xf), obf(0xdd3e, r4, 0x3)
+[0474:5][c=0][uf=0] mov obf(0xd1b4, r4, 0x18), r13
+[0480:6][c=0][uf=0] mov obf(0xee96, r4, 0x2d), r0
+[0486:7][c=0][uf=0] shift left obf(0xee96, r4, 0x2d), 2
+[0493:2][c=0][uf=0] mov r0, obf(0xee96, r4, 0x2d)
+[0499:3][c=0][uf=0] mov obf(0xed5e, r4, 0x14), obf(0x9fc0, r8, 0x7)
+[0508:2][c=0][uf=0] mov obf(0xd3cc, r4, 0x1b), r11
+[0514:3][c=0][uf=0] mov obf(0xc56a, r4, 0xc), obf(0xed5e, r4, 0x14)
+[0523:2][c=0][uf=0] and obf(0xc56a, r4, 0xc), r11
+[0529:3][c=0][uf=0] neg obf(0xc56a, r4, 0xc)
+[0534:5][c=0][uf=0] mov obf(0xec0e, r4, 0x5), obf(0xed5e, r4, 0x14)
+[0543:4][c=0][uf=0] or obf(0xec0e, r4, 0x5), r11
+[0549:5][c=0][uf=0] and obf(0xc56a, r4, 0xc), obf(0xec0e, r4, 0x5)
+[0558:4][c=0][uf=0] mov w[0x9fc0 + r8], obf(0xc56a, r4, 0xc)
+[0566:7][c=0][uf=0] mov obf(0xd260, r4, 0x38), 0x1bda
+[0574:4][c=0][uf=0] mov obf(0xea0a, r4, 0x33), obf(0xdf44, r4, 0x37)
+[0583:3][c=0][uf=0] mov obf(0xedce, r4, 0x2d), r11
+[0589:4][c=0][uf=0] mov obf(0xc56a, r4, 0xc), obf(0xea0a, r4, 0x33)
+[0598:3][c=0][uf=0] neg obf(0xc56a, r4, 0xc)
+[0603:5][c=0][uf=0] and obf(0xc56a, r4, 0xc), obf(0xedce, r4, 0x2d)
+[0612:4][c=0][uf=0] mov obf(0xfa8c, r4, 0x9), obf(0xea0a, r4, 0x33)
+[0621:3][c=0][uf=0] mov obf(0xfb56, r4, 0x4), obf(0xedce, r4, 0x2d)
+[0630:2][c=0][uf=0] neg obf(0xfb56, r4, 0x4)
+[0635:4][c=0][uf=0] and obf(0xfa8c, r4, 0x9), obf(0xfb56, r4, 0x4)
+[0644:3][c=0][uf=0] or obf(0xc56a, r4, 0xc), obf(0xfa8c, r4, 0x9)
+[0653:2][c=0][uf=0] mov obf(0xc5c0, r4, 0x3e), obf(0xc56a, r4, 0xc)
+[0662:1][c=0][uf=0] and obf(0xea0a, r4, 0x33), obf(0xedce, r4, 0x2d)
+[0671:0][c=0][uf=0] mov obf(0xedce, r4, 0x2d), obf(0xea0a, r4, 0x33)
+[0679:7][c=0][uf=0] mov obf(0xea0a, r4, 0x33), obf(0xc5c0, r4, 0x3e)
+[0688:6][c=0][uf=1] shift left obf(0xedce, r4, 0x2d), 1
+[0695:1][c=0][uf=0] or c obf(0xd260, r4, 0x38), 0xd3dc
+[0702:6][c=0][uf=1] and obf(0xedce, r4, 0x2d), obf(0xedce, r4, 0x2d)
+[0711:5][c=0][uf=0] jmp nz 0589:4
+[0716:6][c=0][uf=0] neg obf(0xd260, r4, 0x38)
+[0722:0][c=0][uf=1] shift left obf(0xd260, r4, 0x38), 1
+[0728:3][c=0][uf=0] mov r11, obf(0xea0a, r4, 0x33)
+[0734:4][c=0][uf=0] mov obf(0xec0e, r4, 0x5), r6
+[0740:5][c=0][uf=0] mov obf(0xec86, r4, 0x25), 0x4d6c
+[0748:2][c=0][uf=0] mov obf(0xc5de, r4, 0x24), 0x0002
+[0755:7][c=0][uf=0] mov obf(0xf6a2, r4, 0x39), r8
+[0762:0][c=0][uf=0] mov obf(0xc812, r4, 0x13), obf(0xc5de, r4, 0x24)
+[0770:7][c=0][uf=0] neg obf(0xc812, r4, 0x13)
+[0776:1][c=0][uf=0] and obf(0xc812, r4, 0x13), obf(0xf6a2, r4, 0x39)
+[0785:0][c=0][uf=0] mov obf(0xee1a, r4, 0x36), obf(0xc5de, r4, 0x24)
+[0793:7][c=0][uf=0] neg obf(0xee1a, r4, 0x36)
+[0799:1][c=0][uf=0] or obf(0xee1a, r4, 0x36), obf(0xf6a2, r4, 0x39)
+[0808:0][c=0][uf=0] neg obf(0xee1a, r4, 0x36)
+[0813:2][c=0][uf=0] or obf(0xc812, r4, 0x13), obf(0xee1a, r4, 0x36)
+[0822:1][c=0][uf=0] mov obf(0xecac, r4, 0x21), obf(0xc812, r4, 0x13)
+[0831:0][c=0][uf=0] and obf(0xc5de, r4, 0x24), obf(0xf6a2, r4, 0x39)
+[0839:7][c=0][uf=0] mov obf(0xf6a2, r4, 0x39), obf(0xc5de, r4, 0x24)
+[0848:6][c=0][uf=0] mov obf(0xc5de, r4, 0x24), obf(0xecac, r4, 0x21)
+[0857:5][c=1][uf=1] shift left obf(0xf6a2, r4, 0x39), 1
+[0864:0][c=1][uf=0] or c obf(0xec86, r4, 0x25), 0x99c3
+[0871:5][c=1][uf=1] and obf(0xf6a2, r4, 0x39), obf(0xf6a2, r4, 0x39)
+[0880:4][c=1][uf=0] jmp nz 0762:0
+[0885:5][c=0][uf=0] neg obf(0xec86, r4, 0x25)
+[0890:7][c=1][uf=1] shift left obf(0xec86, r4, 0x25), 1
+[0897:2][c=0][uf=0] mov r8, obf(0xc5de, r4, 0x24)
+[0903:3][c=0][uf=0] mov obf(0xf5d6, r4, 0x32), obf(0x9fc0, r8, 0x7)
+[0912:2][c=0][uf=0] mov obf(0xec86, r4, 0x25), obf(0xf5d6, r4, 0x32)
+[0921:1][c=0][uf=0] and obf(0xec86, r4, 0x25), obf(0xf308, r4, 0x8)
+[0930:0][c=0][uf=0] mov obf(0xc56a, r4, 0xc), obf(0xf5d6, r4, 0x32)
+[0938:7][c=0][uf=0] or obf(0xc56a, r4, 0xc), obf(0xf308, r4, 0x8)
+[0947:6][c=0][uf=0] neg obf(0xc56a, r4, 0xc)
+[0953:0][c=0][uf=0] or obf(0xec86, r4, 0x25), obf(0xc56a, r4, 0xc)
+[0961:7][c=0][uf=0] neg obf(0xec86, r4, 0x25)
+[0967:1][c=0][uf=0] mov w[0x9fc0 + r8], obf(0xec86, r4, 0x25)
+[0975:4][c=0][uf=0] mov obf(0xec86, r4, 0x25), 0x05ef
+[0983:1][c=0][uf=0] shift right obf(0xec86, r4, 0x25), 1
+[0989:4][c=0][uf=0] mov obf(0xec86, r4, 0x25), obf(0xdf44, r4, 0x37)
+[0998:3][c=0][uf=0] neg obf(0xec86, r4, 0x25)
+[1003:5][c=0][uf=0] mov obf(0xde48, r4, 0x1e), 0x1b51
+[1011:2][c=0][uf=0] mov obf(0xd54a, r4, 0x9), 0x0001
+[1018:7][c=0][uf=0] mov obf(0xea56, r4, 0x3c), obf(0xec86, r4, 0x25)
+[1027:6][c=0][uf=0] mov obf(0xcbbe, r4, 0x2), obf(0xd54a, r4, 0x9)
+[1036:5][c=0][uf=0] or obf(0xcbbe, r4, 0x2), obf(0xea56, r4, 0x3c)
+[1045:4][c=0][uf=0] mov obf(0xeaee, r4, 0x24), obf(0xd54a, r4, 0x9)
+[1054:3][c=0][uf=0] and obf(0xeaee, r4, 0x24), obf(0xea56, r4, 0x3c)
+[1063:2][c=0][uf=0] neg obf(0xeaee, r4, 0x24)
+[1068:4][c=0][uf=0] and obf(0xcbbe, r4, 0x2), obf(0xeaee, r4, 0x24)
+[1077:3][c=0][uf=0] mov obf(0xc56a, r4, 0xc), obf(0xcbbe, r4, 0x2)
+[1086:2][c=0][uf=0] and obf(0xd54a, r4, 0x9), obf(0xea56, r4, 0x3c)
+[1095:1][c=0][uf=0] mov obf(0xea56, r4, 0x3c), obf(0xd54a, r4, 0x9)
+[1104:0][c=0][uf=0] mov obf(0xd54a, r4, 0x9), obf(0xc56a, r4, 0xc)
+[1112:7][c=0][uf=1] shift left obf(0xea56, r4, 0x3c), 1
+[1119:2][c=0][uf=0] or c obf(0xde48, r4, 0x1e), 0xfd25
+[1126:7][c=0][uf=1] and obf(0xea56, r4, 0x3c), obf(0xea56, r4, 0x3c)
+[1135:6][c=0][uf=0] jmp nz 1027:6
+[1140:7][c=0][uf=0] neg obf(0xde48, r4, 0x1e)
+[1146:1][c=0][uf=1] shift left obf(0xde48, r4, 0x1e), 1
+[1152:4][c=0][uf=0] mov obf(0xec86, r4, 0x25), obf(0xd54a, r4, 0x9)
+[1161:3][c=0][uf=0] mov obf(0xc56a, r4, 0xc), 0x69f5
+[1169:0][c=0][uf=0] mov obf(0xcb60, r4, 0x2b), obf(0xf308, r4, 0x8)
+[1177:7][c=0][uf=0] mov obf(0xcac2, r4, 0x29), obf(0xec86, r4, 0x25)
+[1186:6][c=0][uf=0] mov obf(0xdb1e, r4, 0x21), obf(0xcb60, r4, 0x2b)
+[1195:5][c=0][uf=0] or obf(0xdb1e, r4, 0x21), obf(0xcac2, r4, 0x29)
+[1204:4][c=0][uf=0] mov obf(0xdc92, r4, 0x2b), obf(0xcb60, r4, 0x2b)
+[1213:3][c=0][uf=0] and obf(0xdc92, r4, 0x2b), obf(0xcac2, r4, 0x29)
+[1222:2][c=0][uf=0] neg obf(0xdc92, r4, 0x2b)
+[1227:4][c=0][uf=0] and obf(0xdb1e, r4, 0x21), obf(0xdc92, r4, 0x2b)
+[1236:3][c=0][uf=0] mov obf(0xd31c, r4, 0x13), obf(0xdb1e, r4, 0x21)
+[1245:2][c=0][uf=0] and obf(0xcb60, r4, 0x2b), obf(0xcac2, r4, 0x29)
+[1254:1][c=0][uf=0] mov obf(0xcac2, r4, 0x29), obf(0xcb60, r4, 0x2b)
+[1263:0][c=0][uf=0] mov obf(0xcb60, r4, 0x2b), obf(0xd31c, r4, 0x13)
+[1271:7][c=1][uf=1] shift left obf(0xcac2, r4, 0x29), 1
+[1278:2][c=1][uf=0] or c obf(0xc56a, r4, 0xc), 0xeda8
+[1285:7][c=1][uf=1] and obf(0xcac2, r4, 0x29), obf(0xcac2, r4, 0x29)
+[1294:6][c=1][uf=0] jmp nz 1186:6
+[1299:7][c=0][uf=0] neg obf(0xc56a, r4, 0xc)
+[1305:1][c=1][uf=1] shift left obf(0xc56a, r4, 0xc), 1
+[1311:4][c=0][uf=0] mov obf(0xf308, r4, 0x8), obf(0xcb60, r4, 0x2b)
+[1320:3][c=0][uf=0] mov obf(0xec86, r4, 0x25), 0x6030
+[1328:0][c=0][uf=0] mov obf(0xc474, r4, 0x3d), 0x53e8
+[1335:5][c=0][uf=0] mov obf(0xc802, r4, 0xf), 0x0002
+[1343:2][c=0][uf=0] mov obf(0xe69c, r4, 0xf), r8
+[1349:3][c=0][uf=0] mov obf(0xec86, r4, 0x25), obf(0xc802, r4, 0xf)
+[1358:2][c=0][uf=0] and obf(0xec86, r4, 0x25), obf(0xe69c, r4, 0xf)
+[1367:1][c=0][uf=0] neg obf(0xec86, r4, 0x25)
+[1372:3][c=0][uf=0] mov obf(0xd556, r4, 0x6), obf(0xc802, r4, 0xf)
+[1381:2][c=0][uf=0] or obf(0xd556, r4, 0x6), obf(0xe69c, r4, 0xf)
+[1390:1][c=0][uf=0] and obf(0xec86, r4, 0x25), obf(0xd556, r4, 0x6)
+[1399:0][c=0][uf=0] mov obf(0xee0c, r4, 0x27), obf(0xec86, r4, 0x25)
+[1407:7][c=0][uf=0] and obf(0xc802, r4, 0xf), obf(0xe69c, r4, 0xf)
+[1416:6][c=0][uf=0] mov obf(0xe69c, r4, 0xf), obf(0xc802, r4, 0xf)
+[1425:5][c=0][uf=0] mov obf(0xc802, r4, 0xf), obf(0xee0c, r4, 0x27)
+[1434:4][c=1][uf=1] shift left obf(0xe69c, r4, 0xf), 1
+[1440:7][c=1][uf=0] or c obf(0xc474, r4, 0x3d), 0xd1c2
+[1448:4][c=1][uf=1] and obf(0xe69c, r4, 0xf), obf(0xe69c, r4, 0xf)
+[1457:3][c=1][uf=0] jmp nz 1349:3
+[1462:4][c=0][uf=0] neg obf(0xc474, r4, 0x3d)
+[1467:6][c=1][uf=1] shift left obf(0xc474, r4, 0x3d), 1
+[1474:1][c=0][uf=0] mov r8, obf(0xc802, r4, 0xf)
+[1480:2][c=0][uf=0] mov obf(0xc56a, r4, 0xc), 0x2c71
+[1487:7][c=0][uf=0] mov obf(0xcf66, r4, 0x3f), 0x0001
+[1495:4][c=0][uf=0] mov obf(0xdb5e, r4, 0x21), obf(0xdf44, r4, 0x37)
+[1504:3][c=0][uf=0] mov obf(0xc7e0, r4, 0x39), obf(0xcf66, r4, 0x3f)
+[1513:2][c=0][uf=0] mov obf(0xf7a4, r4, 0x3b), obf(0xdb5e, r4, 0x21)
+[1522:1][c=0][uf=0] neg obf(0xf7a4, r4, 0x3b)
+[1527:3][c=0][uf=0] or obf(0xc7e0, r4, 0x39), obf(0xf7a4, r4, 0x3b)
+[1536:2][c=0][uf=0] neg obf(0xc7e0, r4, 0x39)
+[1541:4][c=0][uf=0] mov obf(0xdade, r4, 0x30), obf(0xcf66, r4, 0x3f)
+[1550:3][c=0][uf=0] mov obf(0xc6f4, r4, 0x20), obf(0xdb5e, r4, 0x21)
+[1559:2][c=0][uf=0] neg obf(0xc6f4, r4, 0x20)
+[1564:4][c=0][uf=0] and obf(0xdade, r4, 0x30), obf(0xc6f4, r4, 0x20)
+[1573:3][c=0][uf=0] or obf(0xc7e0, r4, 0x39), obf(0xdade, r4, 0x30)
+[1582:2][c=0][uf=0] mov obf(0xefce, r4, 0x37), obf(0xc7e0, r4, 0x39)
+[1591:1][c=0][uf=0] and obf(0xcf66, r4, 0x3f), obf(0xdb5e, r4, 0x21)
+[1600:0][c=0][uf=0] mov obf(0xdb5e, r4, 0x21), obf(0xcf66, r4, 0x3f)
+[1608:7][c=0][uf=0] mov obf(0xcf66, r4, 0x3f), obf(0xefce, r4, 0x37)
+[1617:6][c=0][uf=1] shift left obf(0xdb5e, r4, 0x21), 1
+[1624:1][c=0][uf=0] or c obf(0xc56a, r4, 0xc), 0xcddc
+[1631:6][c=0][uf=1] and obf(0xdb5e, r4, 0x21), obf(0xdb5e, r4, 0x21)
+[1640:5][c=0][uf=0] jmp nz 1504:3
+[1645:6][c=0][uf=0] neg obf(0xc56a, r4, 0xc)
+[1651:0][c=0][uf=1] shift left obf(0xc56a, r4, 0xc), 1
+[1657:3][c=0][uf=0] mov obf(0xdf44, r4, 0x37), obf(0xcf66, r4, 0x3f)
+[1666:2][c=0][uf=0] mov obf(0xcf66, r4, 0x3f), obf(0xdf44, r4, 0x37)
+[1675:1][c=0][uf=0] mov obf(0xc56a, r4, 0xc), 0x0040
+[1682:6][c=0][uf=0] neg obf(0xc56a, r4, 0xc)
+[1688:0][c=0][uf=0] mov obf(0xe740, r4, 0x2a), 0x4c6c
+[1695:5][c=0][uf=0] mov obf(0xcaf8, r4, 0x15), 0x0001
+[1703:2][c=0][uf=0] mov obf(0xce44, r4, 0x3d), obf(0xc56a, r4, 0xc)
+[1712:1][c=0][uf=0] mov obf(0xe242, r4, 0x2a), obf(0xcaf8, r4, 0x15)
+[1721:0][c=0][uf=0] or obf(0xe242, r4, 0x2a), obf(0xce44, r4, 0x3d)
+[1729:7][c=0][uf=0] mov obf(0xdfa0, r4, 0x8), obf(0xcaf8, r4, 0x15)
+[1738:6][c=0][uf=0] and obf(0xdfa0, r4, 0x8), obf(0xce44, r4, 0x3d)
+[1747:5][c=0][uf=0] neg obf(0xdfa0, r4, 0x8)
+[1752:7][c=0][uf=0] and obf(0xe242, r4, 0x2a), obf(0xdfa0, r4, 0x8)
+[1761:6][c=0][uf=0] mov obf(0xe4c8, r4, 0x27), obf(0xe242, r4, 0x2a)
+[1770:5][c=0][uf=0] and obf(0xcaf8, r4, 0x15), obf(0xce44, r4, 0x3d)
+[1779:4][c=0][uf=0] mov obf(0xce44, r4, 0x3d), obf(0xcaf8, r4, 0x15)
+[1788:3][c=0][uf=0] mov obf(0xcaf8, r4, 0x15), obf(0xe4c8, r4, 0x27)
+[1797:2][c=1][uf=1] shift left obf(0xce44, r4, 0x3d), 1
+[1803:5][c=1][uf=0] or c obf(0xe740, r4, 0x2a), 0x8127
+[1811:2][c=1][uf=1] and obf(0xce44, r4, 0x3d), obf(0xce44, r4, 0x3d)
+[1820:1][c=1][uf=0] jmp nz 1712:1
+[1825:2][c=0][uf=0] neg obf(0xe740, r4, 0x2a)
+[1830:4][c=1][uf=1] shift left obf(0xe740, r4, 0x2a), 1
+[1836:7][c=0][uf=0] mov obf(0xc56a, r4, 0xc), obf(0xcaf8, r4, 0x15)
+[1845:6][c=0][uf=0] mov obf(0xd0d2, r4, 0x5), 0x28e1
+[1853:3][c=0][uf=0] mov obf(0xc6f2, r4, 0x18), obf(0xcf66, r4, 0x3f)
+[1862:2][c=0][uf=0] mov obf(0xc2d6, r4, 0x2c), obf(0xc56a, r4, 0xc)
+[1871:1][c=0][uf=0] mov obf(0xe074, r4, 0x11), obf(0xc6f2, r4, 0x18)
+[1880:0][c=0][uf=0] neg obf(0xe074, r4, 0x11)
+[1885:2][c=0][uf=0] or obf(0xe074, r4, 0x11), obf(0xc2d6, r4, 0x2c)
+[1894:1][c=0][uf=0] mov obf(0xc086, r4, 0x2d), obf(0xc6f2, r4, 0x18)
+[1903:0][c=0][uf=0] mov obf(0xe356, r4, 0x18), obf(0xc2d6, r4, 0x2c)
+[1911:7][c=0][uf=0] neg obf(0xe356, r4, 0x18)
+[1917:1][c=0][uf=0] or obf(0xc086, r4, 0x2d), obf(0xe356, r4, 0x18)
+[1926:0][c=0][uf=0] and obf(0xe074, r4, 0x11), obf(0xc086, r4, 0x2d)
+[1934:7][c=0][uf=0] neg obf(0xe074, r4, 0x11)
+[1940:1][c=0][uf=0] mov obf(0xec86, r4, 0x25), obf(0xe074, r4, 0x11)
+[1949:0][c=0][uf=0] and obf(0xc6f2, r4, 0x18), obf(0xc2d6, r4, 0x2c)
+[1957:7][c=0][uf=0] mov obf(0xc2d6, r4, 0x2c), obf(0xc6f2, r4, 0x18)
+[1966:6][c=0][uf=0] mov obf(0xc6f2, r4, 0x18), obf(0xec86, r4, 0x25)
+[1975:5][c=1][uf=1] shift left obf(0xc2d6, r4, 0x2c), 1
+[1982:0][c=1][uf=0] or c obf(0xd0d2, r4, 0x5), 0xef91
+[1989:5][c=1][uf=1] and obf(0xc2d6, r4, 0x2c), obf(0xc2d6, r4, 0x2c)
+[1998:4][c=1][uf=0] jmp nz 1871:1
+[2003:5][c=0][uf=0] neg obf(0xd0d2, r4, 0x5)
+[2008:7][c=1][uf=1] shift left obf(0xd0d2, r4, 0x5), 1
+[2015:2][c=0][uf=0] mov obf(0xcf66, r4, 0x3f), obf(0xc6f2, r4, 0x18)
+[2024:1][c=1][uf=1] and obf(0xcf66, r4, 0x3f), obf(0xcf66, r4, 0x3f)
+[2033:0][c=1][uf=0] jmp nz 3168:1
+[2038:1][c=0][uf=0] mov obf(0xcf66, r4, 0x3f), 0x1fbf
+[2045:6][c=0][uf=0] mov obf(0xec86, r4, 0x25), 0xb000
+[2053:3][c=0][uf=0] mov obf(0xe968, r4, 0x23), 0x5f32
+[2061:0][c=0][uf=0] shift right obf(0xe968, r4, 0x23), 1
+[2067:3][c=0][uf=0] mov obf(0xc56a, r4, 0xc), 0x2731
+[2075:0][c=0][uf=0] mov obf(0xe0b8, r4, 0x12), r0
+[2081:1][c=0][uf=0] mov obf(0xc56e, r4, 0x39), obf(0xec86, r4, 0x25)
+[2090:0][c=0][uf=0] mov obf(0xf142, r4, 0x23), obf(0xe0b8, r4, 0x12)
+[2098:7][c=0][uf=0] and obf(0xf142, r4, 0x23), obf(0xc56e, r4, 0x39)
+[2107:6][c=0][uf=0] neg obf(0xf142, r4, 0x23)
+[2113:0][c=0][uf=0] mov obf(0xc10e, r4, 0x37), obf(0xe0b8, r4, 0x12)
+[2121:7][c=0][uf=0] or obf(0xc10e, r4, 0x37), obf(0xc56e, r4, 0x39)
+[2130:6][c=0][uf=0] neg obf(0xc10e, r4, 0x37)
+[2136:0][c=0][uf=0] neg obf(0xc10e, r4, 0x37)
+[2141:2][c=0][uf=0] and obf(0xf142, r4, 0x23), obf(0xc10e, r4, 0x37)
+[2150:1][c=0][uf=0] mov obf(0xdbb4, r4, 0x23), obf(0xf142, r4, 0x23)
+[2159:0][c=0][uf=0] and obf(0xe0b8, r4, 0x12), obf(0xc56e, r4, 0x39)
+[2167:7][c=0][uf=0] mov obf(0xc56e, r4, 0x39), obf(0xe0b8, r4, 0x12)
+[2176:6][c=0][uf=0] mov obf(0xe0b8, r4, 0x12), obf(0xdbb4, r4, 0x23)
+[2185:5][c=0][uf=1] shift left obf(0xc56e, r4, 0x39), 1
+[2192:0][c=0][uf=0] or c obf(0xc56a, r4, 0xc), 0xbbbc
+[2199:5][c=0][uf=1] and obf(0xc56e, r4, 0x39), obf(0xc56e, r4, 0x39)
+[2208:4][c=0][uf=0] jmp nz 2090:0
+[2213:5][c=0][uf=0] neg obf(0xc56a, r4, 0xc)
+[2218:7][c=0][uf=1] shift left obf(0xc56a, r4, 0xc), 1
+[2225:2][c=0][uf=0] mov obf(0xec86, r4, 0x25), obf(0xe0b8, r4, 0x12)
+[2234:1][c=0][uf=0] mov obf(0xf282, r4, 0x16), 0x2f2c
+[2241:6][c=0][uf=0] mov obf(0xc1c8, r4, 0x3d), obf(0xca5c, r4, 0xf)
+[2250:5][c=0][uf=0] mov obf(0xfde4, r4, 0x23), obf(0xec86, r4, 0x25)
+[2259:4][c=0][uf=0] mov obf(0xf016, r4, 0x1b), obf(0xc1c8, r4, 0x3d)
+[2268:3][c=0][uf=0] neg obf(0xf016, r4, 0x1b)
+[2273:5][c=0][uf=0] and obf(0xf016, r4, 0x1b), obf(0xfde4, r4, 0x23)
+[2282:4][c=0][uf=0] mov obf(0xec30, r4, 0x1a), obf(0xc1c8, r4, 0x3d)
+[2291:3][c=0][uf=0] neg obf(0xec30, r4, 0x1a)
+[2296:5][c=0][uf=0] or obf(0xec30, r4, 0x1a), obf(0xfde4, r4, 0x23)
+[2305:4][c=0][uf=0] neg obf(0xec30, r4, 0x1a)
+[2310:6][c=0][uf=0] or obf(0xf016, r4, 0x1b), obf(0xec30, r4, 0x1a)
+[2319:5][c=0][uf=0] mov obf(0xc56a, r4, 0xc), obf(0xf016, r4, 0x1b)
+[2328:4][c=0][uf=0] and obf(0xc1c8, r4, 0x3d), obf(0xfde4, r4, 0x23)
+[2337:3][c=0][uf=0] mov obf(0xfde4, r4, 0x23), obf(0xc1c8, r4, 0x3d)
+[2346:2][c=0][uf=0] mov obf(0xc1c8, r4, 0x3d), obf(0xc56a, r4, 0xc)
+[2355:1][c=1][uf=1] shift left obf(0xfde4, r4, 0x23), 1
+[2361:4][c=1][uf=0] or c obf(0xf282, r4, 0x16), 0x87d9
+[2369:1][c=1][uf=1] and obf(0xfde4, r4, 0x23), obf(0xfde4, r4, 0x23)
+[2378:0][c=1][uf=0] jmp nz 2259:4
+[2383:1][c=0][uf=0] neg obf(0xf282, r4, 0x16)
+[2388:3][c=1][uf=1] shift left obf(0xf282, r4, 0x16), 1
+[2394:6][c=0][uf=0] mov obf(0xec86, r4, 0x25), 0xbe92
+[2402:3][c=0][uf=0] mov obf(0xc56a, r4, 0xc), 0x0002
+[2410:0][c=0][uf=0] neg obf(0xc56a, r4, 0xc)
+[2415:2][c=0][uf=0] mov obf(0xe28c, r4, 0x35), 0x013b
+[2422:7][c=0][uf=0] mov obf(0xcf42, r4, 0x10), 0x0001
+[2430:4][c=0][uf=0] mov obf(0xe402, r4, 0x2), obf(0xc56a, r4, 0xc)
+[2439:3][c=0][uf=0] mov obf(0xd7dc, r4, 0x3), obf(0xcf42, r4, 0x10)
+[2448:2][c=0][uf=0] neg obf(0xd7dc, r4, 0x3)
+[2453:4][c=0][uf=0] or obf(0xd7dc, r4, 0x3), obf(0xe402, r4, 0x2)
+[2462:3][c=0][uf=0] mov obf(0xd98e, r4, 0x39), obf(0xcf42, r4, 0x10)
+[2471:2][c=0][uf=0] mov obf(0xddf4, r4, 0x21), obf(0xe402, r4, 0x2)
+[2480:1][c=0][uf=0] neg obf(0xddf4, r4, 0x21)
+[2485:3][c=0][uf=0] or obf(0xd98e, r4, 0x39), obf(0xddf4, r4, 0x21)
+[2494:2][c=0][uf=0] and obf(0xd7dc, r4, 0x3), obf(0xd98e, r4, 0x39)
+[2503:1][c=0][uf=0] neg obf(0xd7dc, r4, 0x3)
+[2508:3][c=0][uf=0] mov obf(0xd6c6, r4, 0xa), obf(0xd7dc, r4, 0x3)
+[2517:2][c=0][uf=0] and obf(0xcf42, r4, 0x10), obf(0xe402, r4, 0x2)
+[2526:1][c=0][uf=0] mov obf(0xe402, r4, 0x2), obf(0xcf42, r4, 0x10)
+[2535:0][c=0][uf=0] mov obf(0xcf42, r4, 0x10), obf(0xd6c6, r4, 0xa)
+[2543:7][c=0][uf=1] shift left obf(0xe402, r4, 0x2), 1
+[2550:2][c=0][uf=0] or c obf(0xe28c, r4, 0x35), 0xde81
+[2557:7][c=0][uf=1] and obf(0xe402, r4, 0x2), obf(0xe402, r4, 0x2)
+[2566:6][c=0][uf=0] jmp nz 2439:3
+[2571:7][c=0][uf=0] neg obf(0xe28c, r4, 0x35)
+[2577:1][c=0][uf=1] shift left obf(0xe28c, r4, 0x35), 1
+[2583:4][c=0][uf=0] mov obf(0xc56a, r4, 0xc), obf(0xcf42, r4, 0x10)
+[2592:3][c=0][uf=0] mov obf(0xeda0, r4, 0x22), 0x7500
+[2600:0][c=0][uf=0] mov obf(0xc9c8, r4, 0x30), r8
+[2606:1][c=0][uf=0] mov obf(0xc4cc, r4, 0x6), obf(0xc56a, r4, 0xc)
+[2615:0][c=0][uf=0] mov obf(0xd3b0, r4, 0x18), obf(0xc9c8, r4, 0x30)
+[2623:7][c=0][uf=0] mov obf(0xc372, r4, 0x10), obf(0xc4cc, r4, 0x6)
+[2632:6][c=0][uf=0] neg obf(0xc372, r4, 0x10)
+[2638:0][c=0][uf=0] or obf(0xd3b0, r4, 0x18), obf(0xc372, r4, 0x10)
+[2646:7][c=0][uf=0] mov obf(0xd17e, r4, 0x3b), obf(0xc9c8, r4, 0x30)
+[2655:6][c=0][uf=0] neg obf(0xd17e, r4, 0x3b)
+[2661:0][c=0][uf=0] or obf(0xd17e, r4, 0x3b), obf(0xc4cc, r4, 0x6)
+[2669:7][c=0][uf=0] and obf(0xd3b0, r4, 0x18), obf(0xd17e, r4, 0x3b)
+[2678:6][c=0][uf=0] neg obf(0xd3b0, r4, 0x18)
+[2684:0][c=0][uf=0] mov obf(0xe7a6, r4, 0x9), obf(0xd3b0, r4, 0x18)
+[2692:7][c=0][uf=0] and obf(0xc9c8, r4, 0x30), obf(0xc4cc, r4, 0x6)
+[2701:6][c=0][uf=0] mov obf(0xc4cc, r4, 0x6), obf(0xc9c8, r4, 0x30)
+[2710:5][c=0][uf=0] mov obf(0xc9c8, r4, 0x30), obf(0xe7a6, r4, 0x9)
+[2719:4][c=1][uf=1] shift left obf(0xc4cc, r4, 0x6), 1
+[2725:7][c=1][uf=0] or c obf(0xeda0, r4, 0x22), 0x9ad9
+[2733:4][c=1][uf=1] and obf(0xc4cc, r4, 0x6), obf(0xc4cc, r4, 0x6)
+[2742:3][c=1][uf=0] jmp nz 2615:0
+[2747:4][c=0][uf=0] neg obf(0xeda0, r4, 0x22)
+[2752:6][c=1][uf=1] shift left obf(0xeda0, r4, 0x22), 1
+[2759:1][c=0][uf=0] mov r8, obf(0xc9c8, r4, 0x30)
+[2765:2][c=0][uf=0] mov obf(0xd19c, r4, 0x28), w[0x9fc0 + r8]
+[2773:5][c=0][uf=0] mov obf(0xfeda, r4, 0x35), obf(0xd19c, r4, 0x28)
+[2782:4][c=0][uf=0] mov obf(0xccf6, r4, 0x20), obf(0xec86, r4, 0x25)
+[2791:3][c=0][uf=0] neg obf(0xccf6, r4, 0x20)
+[2796:5][c=0][uf=0] mov obf(0xf346, r4, 0x15), 0x1d75
+[2804:2][c=0][uf=0] mov obf(0xc966, r4, 0x27), 0x0001
+[2811:7][c=0][uf=0] mov obf(0xd092, r4, 0x17), obf(0xccf6, r4, 0x20)
+[2820:6][c=0][uf=0] mov obf(0xd80c, r4, 0x2c), obf(0xc966, r4, 0x27)
+[2829:5][c=0][uf=0] and obf(0xd80c, r4, 0x2c), obf(0xd092, r4, 0x17)
+[2838:4][c=0][uf=0] neg obf(0xd80c, r4, 0x2c)
+[2843:6][c=0][uf=0] mov obf(0xc2b6, r4, 0x21), obf(0xc966, r4, 0x27)
+[2852:5][c=0][uf=0] or obf(0xc2b6, r4, 0x21), obf(0xd092, r4, 0x17)
+[2861:4][c=0][uf=0] neg obf(0xc2b6, r4, 0x21)
+[2866:6][c=0][uf=0] neg obf(0xc2b6, r4, 0x21)
+[2872:0][c=0][uf=0] and obf(0xd80c, r4, 0x2c), obf(0xc2b6, r4, 0x21)
+[2880:7][c=0][uf=0] mov obf(0xc56a, r4, 0xc), obf(0xd80c, r4, 0x2c)
+[2889:6][c=0][uf=0] and obf(0xc966, r4, 0x27), obf(0xd092, r4, 0x17)
+[2898:5][c=0][uf=0] mov obf(0xd092, r4, 0x17), obf(0xc966, r4, 0x27)
+[2907:4][c=0][uf=0] mov obf(0xc966, r4, 0x27), obf(0xc56a, r4, 0xc)
+[2916:3][c=1][uf=1] shift left obf(0xd092, r4, 0x17), 1
+[2922:6][c=1][uf=0] or c obf(0xf346, r4, 0x15), 0xa04f
+[2930:3][c=1][uf=1] and obf(0xd092, r4, 0x17), obf(0xd092, r4, 0x17)
+[2939:2][c=1][uf=0] jmp nz 2820:6
+[2944:3][c=0][uf=0] neg obf(0xf346, r4, 0x15)
+[2949:5][c=1][uf=1] shift left obf(0xf346, r4, 0x15), 1
+[2956:0][c=0][uf=0] mov obf(0xccf6, r4, 0x20), obf(0xc966, r4, 0x27)
+[2964:7][c=0][uf=0] mov obf(0xc46a, r4, 0x18), 0x0da1
+[2972:4][c=0][uf=0] mov obf(0xfb4e, r4, 0x35), obf(0xfeda, r4, 0x35)
+[2981:3][c=0][uf=0] mov obf(0xd072, r4, 0x3b), obf(0xccf6, r4, 0x20)
+[2990:2][c=0][uf=0] mov obf(0xf5de, r4, 0x2b), obf(0xfb4e, r4, 0x35)
+[2999:1][c=0][uf=0] mov obf(0xe000, r4, 0x26), obf(0xd072, r4, 0x3b)
+[3008:0][c=0][uf=0] neg obf(0xe000, r4, 0x26)
+[3013:2][c=0][uf=0] and obf(0xf5de, r4, 0x2b), obf(0xe000, r4, 0x26)
+[3022:1][c=0][uf=0] mov obf(0xfd18, r4, 0x36), obf(0xfb4e, r4, 0x35)
+[3031:0][c=0][uf=0] mov obf(0xc698, r4, 0x1d), obf(0xd072, r4, 0x3b)
+[3039:7][c=0][uf=0] neg obf(0xc698, r4, 0x1d)
+[3045:1][c=0][uf=0] or obf(0xfd18, r4, 0x36), obf(0xc698, r4, 0x1d)
+[3054:0][c=0][uf=0] neg obf(0xfd18, r4, 0x36)
+[3059:2][c=0][uf=0] or obf(0xf5de, r4, 0x2b), obf(0xfd18, r4, 0x36)
+[3068:1][c=0][uf=0] mov obf(0xc56a, r4, 0xc), obf(0xf5de, r4, 0x2b)
+[3077:0][c=0][uf=0] and obf(0xfb4e, r4, 0x35), obf(0xd072, r4, 0x3b)
+[3085:7][c=0][uf=0] mov obf(0xd072, r4, 0x3b), obf(0xfb4e, r4, 0x35)
+[3094:6][c=0][uf=0] mov obf(0xfb4e, r4, 0x35), obf(0xc56a, r4, 0xc)
+[3103:5][c=1][uf=1] shift left obf(0xd072, r4, 0x3b), 1
+[3110:0][c=1][uf=0] or c obf(0xc46a, r4, 0x18), 0xc36e
+[3117:5][c=1][uf=1] and obf(0xd072, r4, 0x3b), obf(0xd072, r4, 0x3b)
+[3126:4][c=1][uf=0] jmp nz 2990:2
+[3131:5][c=0][uf=0] neg obf(0xc46a, r4, 0x18)
+[3136:7][c=1][uf=1] shift left obf(0xc46a, r4, 0x18), 1
+[3143:2][c=0][uf=0] mov obf(0xfeda, r4, 0x35), obf(0xfb4e, r4, 0x35)
+[3152:1][c=1][uf=1] and obf(0xfeda, r4, 0x35), obf(0xfeda, r4, 0x35)
+[3161:0][c=1][uf=0] mov nz w[0x9fc0 + r8], 0xffff
+[3168:1][c=0][uf=0] mov obf(0xd7ac, r4, 0x21), obf(0xdf44, r4, 0x37)
+[3177:0][c=0][uf=0] mov obf(0xd5e8, r4, 0xd), 0x0040
+[3184:5][c=0][uf=0] neg obf(0xd5e8, r4, 0xd)
+[3189:7][c=0][uf=0] mov obf(0xc636, r4, 0x23), 0x5020
+[3197:4][c=0][uf=0] mov obf(0xfe82, r4, 0xe), 0x0001
+[3205:1][c=0][uf=0] mov obf(0xc958, r4, 0x30), obf(0xd5e8, r4, 0xd)
+[3214:0][c=0][uf=0] mov obf(0xc642, r4, 0x7), obf(0xfe82, r4, 0xe)
+[3222:7][c=0][uf=0] mov obf(0xf9ea, r4, 0x2a), obf(0xc958, r4, 0x30)
+[3231:6][c=0][uf=0] neg obf(0xf9ea, r4, 0x2a)
+[3237:0][c=0][uf=0] and obf(0xc642, r4, 0x7), obf(0xf9ea, r4, 0x2a)
+[3245:7][c=0][uf=0] mov obf(0xf9ea, r4, 0x2a), obf(0xc642, r4, 0x7)
+[3254:6][c=0][uf=0] mov obf(0xc56a, r4, 0xc), obf(0xfe82, r4, 0xe)
+[3263:5][c=0][uf=0] mov obf(0xfac2, r4, 0x2a), obf(0xc958, r4, 0x30)
+[3272:4][c=0][uf=0] neg obf(0xfac2, r4, 0x2a)
+[3277:6][c=0][uf=0] or obf(0xc56a, r4, 0xc), obf(0xfac2, r4, 0x2a)
+[3286:5][c=0][uf=0] neg obf(0xc56a, r4, 0xc)
+[3291:7][c=0][uf=0] or obf(0xf9ea, r4, 0x2a), obf(0xc56a, r4, 0xc)
+[3300:6][c=0][uf=0] mov obf(0xc122, r4, 0x10), obf(0xf9ea, r4, 0x2a)
+[3309:5][c=0][uf=0] and obf(0xfe82, r4, 0xe), obf(0xc958, r4, 0x30)
+[3318:4][c=0][uf=0] mov obf(0xc958, r4, 0x30), obf(0xfe82, r4, 0xe)
+[3327:3][c=0][uf=0] mov obf(0xfe82, r4, 0xe), obf(0xc122, r4, 0x10)
+[3336:2][c=1][uf=1] shift left obf(0xc958, r4, 0x30), 1
+[3342:5][c=1][uf=0] or c obf(0xc636, r4, 0x23), 0x9bce
+[3350:2][c=1][uf=1] and obf(0xc958, r4, 0x30), obf(0xc958, r4, 0x30)
+[3359:1][c=1][uf=0] jmp nz 3214:0
+[3364:2][c=0][uf=0] neg obf(0xc636, r4, 0x23)
+[3369:4][c=1][uf=1] shift left obf(0xc636, r4, 0x23), 1
+[3375:7][c=0][uf=0] mov obf(0xd5e8, r4, 0xd), obf(0xfe82, r4, 0xe)
+[3384:6][c=0][uf=0] mov obf(0xc56a, r4, 0xc), 0x5075
+[3392:3][c=0][uf=0] mov obf(0xfee4, r4, 0x1), obf(0xd7ac, r4, 0x21)
+[3401:2][c=0][uf=0] mov obf(0xc402, r4, 0x3d), obf(0xd5e8, r4, 0xd)
+[3410:1][c=0][uf=0] mov obf(0xf8b0, r4, 0x1), obf(0xfee4, r4, 0x1)
+[3419:0][c=0][uf=0] or obf(0xf8b0, r4, 0x1), obf(0xc402, r4, 0x3d)
+[3427:7][c=0][uf=0] mov obf(0xfe56, r4, 0x3), obf(0xfee4, r4, 0x1)
+[3436:6][c=0][uf=0] and obf(0xfe56, r4, 0x3), obf(0xc402, r4, 0x3d)
+[3445:5][c=0][uf=0] neg obf(0xfe56, r4, 0x3)
+[3450:7][c=0][uf=0] and obf(0xf8b0, r4, 0x1), obf(0xfe56, r4, 0x3)
+[3459:6][c=0][uf=0] mov obf(0xec06, r4, 0x37), obf(0xf8b0, r4, 0x1)
+[3468:5][c=0][uf=0] and obf(0xfee4, r4, 0x1), obf(0xc402, r4, 0x3d)
+[3477:4][c=0][uf=0] mov obf(0xc402, r4, 0x3d), obf(0xfee4, r4, 0x1)
+[3486:3][c=0][uf=0] mov obf(0xfee4, r4, 0x1), obf(0xec06, r4, 0x37)
+[3495:2][c=0][uf=1] shift left obf(0xc402, r4, 0x3d), 1
+[3501:5][c=0][uf=0] or c obf(0xc56a, r4, 0xc), 0xed90
+[3509:2][c=0][uf=1] and obf(0xc402, r4, 0x3d), obf(0xc402, r4, 0x3d)
+[3518:1][c=0][uf=0] jmp nz 3410:1
+[3523:2][c=0][uf=0] neg obf(0xc56a, r4, 0xc)
+[3528:4][c=0][uf=1] shift left obf(0xc56a, r4, 0xc), 1
+[3534:7][c=0][uf=0] mov obf(0xd7ac, r4, 0x21), obf(0xfee4, r4, 0x1)
+[3543:6][c=0][uf=1] and obf(0xd7ac, r4, 0x21), obf(0xd7ac, r4, 0x21)
+[3552:5][c=0][uf=0] jmp c 0499:3
+[3557:6][c=0][uf=0] mov w[0x8000], 0xdead
+[3564:3][c=0][uf=0] mov obf(0xd458, r4, 0x1f), r9
+[3570:4][c=0][uf=0] and obf(0xd458, r4, 0x1f), r11
+[3576:5][c=0][uf=0] mov w[0x8002], 0xbeef
+[3583:2][c=0][uf=0] mov r0, 0x00aa
+[3588:1][c=0][uf=0] mov r0, 0x00aa
+[3593:0][c=0][uf=0] mov r0, 0x00aa
+[3597:7][c=0][uf=0] mov r0, 0x00aa
+[3602:6][c=0][uf=0] mov r0, 0x00aa
+[3607:5][c=0][uf=0] mov r0, 0x00aa
+[3612:4][c=0][uf=0] mov r0, 0x00aa
+[3617:3][c=0][uf=0] mov r0, 0x00aa
+[3622:2][c=0][uf=0] mov r0, 0x00aa
+[3627:1][c=0][uf=0] mov r0, 0x00aa
+[3632:0][c=0][uf=0] mov r0, 0x00aa
+[3636:7][c=0][uf=0] mov r0, 0x00aa
+[3641:6][c=0][uf=0] mov r0, 0x00aa
+[3646:5][c=0][uf=0] mov r0, 0x00aa
+[3651:4][c=0][uf=0] mov r0, 0x00aa
+[3656:3][c=0][uf=0] mov r0, 0x00aa
+[3661:2][c=0][uf=0] mov r0, 0x00aa
+[3666:1][c=0][uf=0] mov r0, 0x00aa
+[3671:0][c=0][uf=0] mov r0, 0x00aa
+[3675:7][c=0][uf=0] mov r0, 0x00aa
+[3680:6][c=0][uf=0] mov r0, 0x00aa
+[3685:5][c=0][uf=0] mov r0, 0x00aa
+[3690:4][c=0][uf=0] mov r0, 0x00aa
+[3695:3][c=0][uf=0] mov r0, 0x00aa
+[3700:2][c=0][uf=0] mov r0, 0x00aa
+[3705:1][c=0][uf=0] mov r0, 0x00aa
+[3710:0][c=0][uf=0] mov r0, 0x00aa
+[3714:7][c=0][uf=0] mov r0, 0x00aa
+[3719:6][c=0][uf=0] mov r0, 0x00aa
+[3724:5][c=0][uf=0] mov r0, 0x00aa
+[3729:4][c=0][uf=0] mov r0, 0x00aa
+[3734:3][c=0][uf=0] mov r0, 0x00aa
+[3739:2][c=0][uf=0] mov r0, 0x00aa
+[3744:1][c=0][uf=0] mov r0, 0x00aa
+[3749:0][c=0][uf=0] mov r0, 0x00aa
+[3753:7][c=0][uf=0] mov r0, 0x00aa
+[3758:6][c=0][uf=0] mov r0, 0x00aa
+[3763:5][c=0][uf=0] mov r0, 0x00aa
+[3768:4][c=0][uf=0] mov r0, 0x00aa
+[3773:3][c=0][uf=0] mov r0, 0x00aa
+[3778:2][c=0][uf=0] mov r0, 0x00aa
+[3783:1][c=0][uf=0] mov r0, 0x00aa
+[3788:0][c=0][uf=0] mov r0, 0x00aa
+[3792:7][c=0][uf=0] mov r0, 0x00aa
+[3797:6][c=0][uf=0] mov r0, 0x00aa
+[3802:5][c=0][uf=0] jmp 0000:0
+[3807:6][c=1][uf=1] and r1, r0
